@@ -1,0 +1,12 @@
+{
+  "name": "eco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "author": "Robin Osborne (@rposbo)",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.0"
+  }
+}

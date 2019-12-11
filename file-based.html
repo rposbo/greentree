@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<!-- 
+  Based on:
+  http://bl.ocks.org/ndobie/90ae9f1a5c7f88ad4929
+  https://www.d3-graph-gallery.com/graph/treemap_custom.html
+
+  Should probably make it look more like:
+  https://observablehq.com/@d3/treemap
+-->
+<style>
+  .toolTip {
+      position: absolute;
+      display: none;
+      width: auto;
+      height: auto;
+      background: none repeat scroll 0 0 white;
+      border: 0 none;
+      border-radius: 8px 8px 8px 8px;
+      box-shadow: -3px 3px 15px #888888;
+      color: black;
+      font: 12px sans-serif;
+      padding: 5px;
+      text-align: center;
+  }
+  </style>
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
+
+<!-- Create a div where the graph will take place -->
+<div id="bytes_viz"></div>
+<div id="energy_viz"></div>
+
+<div id="co2grams_viz"></div>
+<div id="co2litres_viz"></div>
+
+
+<script>
+
+const renderTreemap = (file, site, type) => {
+  // set the dimensions and margins of the graph
+var margin = {top: 40, right: 10, bottom: 10, left: 10},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+  
+  // append the svg object to the body of the page
+  var svg = d3.select(`#${type}_viz`)
+  .append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform",
+          "translate(" + margin.left + "," + margin.top + ")");
+  
+  // read json data
+  d3.json(file, function(data) {
+  
+    var tool = d3.select("body").append("div").attr("class", "toolTip");
+
+    // Give the data to this cluster layout:
+    var root = d3.hierarchy(data).sum(function(d){ return d.value}) // Here the size of each leaf is given in the 'value' field in input data
+  
+    // Then d3.treemap computes the position of each element of the hierarchy
+    d3.treemap()
+      .size([width, height])
+      .paddingTop(28)
+      .paddingRight(7)
+      .paddingInner(3)      // Padding between each rectangle
+      //.paddingOuter(6)
+      //.padding(20)
+      (root)
+  
+    // // prepare a color scale
+    var color = d3.scaleOrdinal()
+      .domain(["eco","grid"])
+      .range([ "#00ff00", "#efefef"])
+  
+    // And a opacity scale
+    var opacity = d3.scaleLinear()
+      .domain([10, 30])
+      .range([.5,1])
+  
+    // use this information to add rectangles:
+    svg
+      .selectAll("rect")
+      .data(root.leaves())
+      .enter()
+      .append("rect")
+        .attr('x', function (d) { return d.x0; })
+        .attr('y', function (d) { return d.y0; })
+        .attr('width', function (d) { return d.x1 - d.x0; })
+        .attr('height', function (d) { return d.y1 - d.y0; })
+        .style("stroke", "black")
+        .style("fill", function(d){ return color(d.parent.data.green ? "eco" : "grid")} )
+        .style("opacity", function(d){ return opacity(d.data.value)})
+        .on("mousemove", function (d) {
+              tool.style("left", d3.event.pageX + 10 + "px")
+              tool.style("top", d3.event.pageY - 20 + "px")
+              tool.style("display", "inline-block");
+              tool.html(`${d.parent.data.name}<br />Total: ${d.parent.data.value}<br />This: ${d.data.value}`);
+              if (type == 'bytes'){
+                tool.html(`${d.parent.data.name}<br />Total: ${d.parent.data.bytesPretty}<br />This: ${d.data.bytesPretty}`);
+              }
+          }).on("mouseout", function (d) {
+              tool.style("display", "none");
+          });
+    
+    // Add title for the 3 groups
+    svg
+      .append("text")
+        .attr("x", 0)
+        .attr("y", 14) 
+        .text(`${type} map for ${site}`)
+        .attr("font-size", "19px")
+        .attr("fill",  "black" )
+  
+  })
+};
+
+renderTreemap("green_energy.json","thesun.co.uk","energy");
+renderTreemap("green_bytes.json","thesun.co.uk","bytes");
+renderTreemap("green_co2Grams.json","thesun.co.uk","co2grams");
+renderTreemap("green_co2Litres.json","thesun.co.uk","co2litres");
+</script>

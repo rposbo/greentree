@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<!-- 
+  Based on:
+  http://bl.ocks.org/ndobie/90ae9f1a5c7f88ad4929
+  https://www.d3-graph-gallery.com/graph/treemap_custom.html
+
+  Should probably make it look more like:
+  https://observablehq.com/@d3/treemap
+-->
+<style>
+  html,body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .toolTip {
+      position: absolute;
+      display: none;
+      width: auto;
+      height: auto;
+      background: none repeat scroll 0 0 white;
+      border: 0 none;
+      border-radius: 8px 8px 8px 8px;
+      box-shadow: -3px 3px 15px #888888;
+      color: black;
+      font: 12px sans-serif;
+      padding: 5px;
+      text-align: center;
+  }
+</style>
+<!-- Load d3.js -->
+
+<script src="https://d3js.org/d3.v4.js"></script>
+</head>
+
+<body>
+<!-- Create a div where the graph will take place -->
+<div id="bytes_viz"></div>
+<div id="energy_viz"></div>
+
+<div id="co2grams_viz"></div>
+<div id="co2litres_viz"></div>
+
+<div id="loading" style="display:none">
+  Loading
+</div>
+
+<div id="warning" style="display:none">
+  <form method="GET">
+    <input type="text" name="testId" id="testId" placeholder="WebPageTest testId, e.g. 191206_NE_82831089b7e519db7acc0eaa1bdd5c06" style="width:300px" />
+    <input type="submit" name="go" value="Go" />
+  </form>
+</div>
+
+<script>
+
+const renderTreemap = (data, site, type) => {
+  // set the dimensions and margins of the graph
+var margin = {top: 40, right: 10, bottom: 10, left: 10},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+  
+  // append the svg object to the body of the page
+  var svg = d3.select(`#${type}_viz`)
+  .append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform",
+          "translate(" + margin.left + "," + margin.top + ")");
+  
+  // read json data
+  //d3.json(file, function(data) {
+  
+    var tool = d3.select("body").append("div").attr("class", "toolTip");
+
+    // Give the data to this cluster layout:
+    var root = d3.hierarchy(data).sum(function(d){ return d.value}) // Here the size of each leaf is given in the 'value' field in input data
+  
+    // Then d3.treemap computes the position of each element of the hierarchy
+    d3.treemap()
+      .size([width, height])
+      .paddingTop(28)
+      .paddingRight(7)
+      .paddingInner(3)      // Padding between each rectangle
+      //.paddingOuter(6)
+      //.padding(20)
+      (root)
+  
+    // // prepare a color scale
+    var color = d3.scaleOrdinal()
+      .domain(["eco","grid"])
+      .range([ "#00ff00", "#efefef"])
+  
+    // And a opacity scale
+    var opacity = d3.scaleLinear()
+      .domain([10, 30])
+      .range([.5,1])
+  
+    // use this information to add rectangles:
+    svg
+      .selectAll("rect")
+      .data(root.leaves())
+      .enter()
+      .append("rect")
+        .attr('x', function (d) { return d.x0; })
+        .attr('y', function (d) { return d.y0; })
+        .attr('width', function (d) { return d.x1 - d.x0; })
+        .attr('height', function (d) { return d.y1 - d.y0; })
+        .style("stroke", "black")
+        .style("fill", function(d){ return color(d.parent.data.green ? "eco" : "grid")} )
+        .style("opacity", function(d){ return opacity(d.data.value)})
+        .on("mousemove", function (d) {
+              tool.style("left", d3.event.pageX + 10 + "px")
+              tool.style("top", d3.event.pageY - 20 + "px")
+              tool.style("display", "inline-block");
+              tool.html(`${d.parent.data.name}<br />Total: ${d.parent.data.value}<br />This: ${d.data.value}`);
+              if (type == 'bytes'){
+                tool.html(`${d.parent.data.name}<br />Total: ${d.parent.data.bytesPretty}<br />This: ${d.data.bytesPretty}`);
+              }
+          }).on("mouseout", function (d) {
+              tool.style("display", "none");
+          });
+    
+    // Add title for the 3 groups
+    svg
+      .append("text")
+        .attr("x", 0)
+        .attr("y", 14) 
+        .text(`${type} map for ${site}`)
+        .attr("font-size", "19px")
+        .attr("fill",  "black" )
+  
+//  })
+};
+
+const buildRequestData = (networkRequestsArray) => {
+
+  const requestData = networkRequestsArray.map(x => {
+      let h = {};
+      h['host'] = new URL(x.url).hostname;
+      h['bytes'] = x.transferSize;
+      h['bytesPretty'] = prettyBytes(x.transferSize);
+      return h;
+  }).filter(x => (x.host != null && x.host.length > 0 ));
+
+  const uniqueHosts = new Set(requestData.map(x => x.host));
+
+  uniqueHosts.forEach(u => {
+      let allBytesByHost = requestData
+                              .filter(r => r.host == u && r.bytes != null)
+                              .map(r => r.bytes)
+                              .reduce((a,c) => a + c);
+
+      requestData
+          .filter(r => r.host == u && r.bytes > 0)
+          .forEach(r => {
+              r.totalBytes = allBytesByHost;
+              r.totalBytesPretty = prettyBytes(allBytesByHost);
+          });
+  });        
+
+return requestData;
+}
+
+const prettyBytes = (bytes) => {
+  const sizes = ['Bytes', 'KB', 'MB', 'GB', 'TB']
+  if (bytes === 0) return '0';
+  const i = parseInt(Math.floor(Math.log(bytes) / Math.log(1024)), 10)
+  if (i === 0) return `${bytes} ${sizes[i]}`
+  return `${(bytes / (1024 ** i)).toFixed(1)} ${sizes[i]}`
+};
+
+const checkGreen = async (host) => {
+    return new Promise((resolve, reject) => {
+        fetch('http://api.thegreenwebfoundation.org/greencheck/' + host,
+        {
+            method: 'GET'
+        })
+        .then(r => r.json())
+        .then(data => { 
+          document.querySelector('#loading').innerHTML += ".";
+            if (data) {
+                resolve(data.green);
+            } else {
+                resolve(false)
+            }
+        })
+        .catch(e => {
+            resolve(false);
+            document.querySelector('#loading').innerHTML += "_";
+        })
+    });
+};
+
+const enrich = async (requestData, site) => {
+    // green api doens't like getting hammered, so process in serial 
+    // instead of parallel and only once per host                
+    const uniqueHosts = Array.from(new Set(requestData.map(x => x.host)));
+    requestData.url = site;
+
+    await asyncForEach(uniqueHosts, async (u) => {
+        // get value
+        let greenHost = await checkGreen(u);
+        
+        // update all requests for this host
+        requestData
+        .filter(r => r.host == u)
+        .forEach(x => {
+            x.greenHost = greenHost;
+            x.ecoData = ecoData(x.bytes, greenHost);
+        });
+    });
+    
+    uniqueHosts.forEach(u => {
+        let allEnergyByHost = requestData.filter(r => r.host == u).map(r => r.ecoData.energy);
+        let allCO2GramsByHost = requestData.filter(r => r.host == u).map(r => r.ecoData.co2.grams);
+        let allCO2LitresByHost = requestData.filter(r => r.host == u).map(r => r.ecoData.co2.litres);
+
+        requestData
+            .filter(r => r.host == u && r.bytes > 0)
+            .forEach(r => {
+                r.totalEnergy = allEnergyByHost.reduce((a,c) => a + c);
+                r.totalCO2Grams = allCO2GramsByHost.reduce((a,c) => a + c);
+                r.totalCO2Litres = allCO2LitresByHost.reduce((a,c) => a + c);
+            });
+    });
+
+    return requestData;
+};
+
+const asyncForEach = async (array, callback) => {
+    for (let index = 0; index < array.length; index++) {
+        await callback(array[index], index, array)
+    }
+}
+
+const ecoData = (bytes, green) => {
+  const bytesAdjusted = (bytes * 0.75)
+                      + (0.02 * bytes * 0.25);
+
+  const energy = bytesAdjusted  * (1.805 / 1073741824);
+
+  const co2Grid = energy * 475;
+
+  const co2Renewable = ((energy * 0.1008) * 33.4)
+                      + ((energy * 0.8992) * 475);
+
+  return {
+      'energy': energy,
+      'type' : green ? 'renewable' : 'grid',
+      'co2': {
+          'grams': green ? co2Renewable : co2Grid,
+          'litres': green ? co2Renewable * 0.5562 : co2Grid * 0.5562
+      }
+  };
+};
+
+const buildMapData = (data, type) => {
+    const mapData = {};
+
+    mapData.name = `Treemap for ${type}`;
+    mapData.children = [];
+
+    const uniqueHosts = Array.from(new Set(data.map(x => x.host)));
+    uniqueHosts.forEach(u => {
+        const uniqueHost = {
+            name: u,
+            children: []
+        };
+
+        data.filter(r => r.host == u).forEach(r => {
+            uniqueHost.green = r.greenHost,
+            uniqueHost.bytesPretty = r.totalBytesPretty;
+            
+            uniqueHost.value = 
+                type == 'bytes' ? r.totalBytes : 
+                type == 'energy' ? r.totalEnergy : 
+                type == 'co2Grams' ? r.totalCO2Grams :
+                r.totalCO2Litres;
+
+            const i = 
+                type == 'bytes' ? r.bytes : 
+                type == 'energy' ? r.ecoData.energy : 
+                type == 'co2Grams' ? r.ecoData.co2.grams :
+                r.ecoData.co2.litres;
+
+            if (i > 0)
+            uniqueHost.children.push({
+                name:  i,
+                value: i,
+                green: r.greenHost,
+                bytesPretty: r.bytesPretty
+            });
+        });
+        
+        if (uniqueHost.value > 0)
+        mapData.children.push(uniqueHost);
+    });
+    return mapData;
+};
+
+const getResults = (testId) => {
+    const wptResultsEndpoint = "http://www.webpagetest.org/jsonResult.php?test=";
+
+    return new Promise((resolve, reject) => {
+        
+        const endpoint = wptResultsEndpoint + testId;
+        console.log("Getting results from " + endpoint);
+        
+        try {
+          fetch(endpoint,{method:"GET"})
+          .then(r => r.json())
+          .then(body => {
+                const networkRequestsArray = body.data.lighthouse.audits['network-requests'].details.items;
+                const requestData = buildRequestData(networkRequestsArray);
+                let energyRequestData = enrich(requestData, body.data.url);
+                resolve(energyRequestData); 
+          });
+        }
+        catch(e){
+            var msg = "ERROR in getResults: " + JSON.stringify(e);
+            console.log(msg);
+            reject();
+        }
+    });
+};
+
+// vanilla javascript queystring management
+var qs = (function(a) {
+    if (a == "") return {};
+    var b = {};
+    for (var i = 0; i < a.length; ++i)
+    {
+        var p=a[i].split('=', 2);
+        if (p.length == 1)
+            b[p[0]] = "";
+        else
+            b[p[0]] = decodeURIComponent(p[1].replace(/\+/g, " "));
+    }
+    return b;
+})(window.location.search.substr(1).split('&'));
+
+if (qs.hasOwnProperty("testId")) {
+  document.querySelector('#warning').style['display'] = 'none';
+  document.querySelector('#loading').style['display'] = 'block';
+
+  getResults(qs["testId"])
+    .then(results => {
+      renderTreemap(buildMapData(results,'bytes'), results.url, "bytes");
+      renderTreemap(buildMapData(results,'energy'), results.url, "energy");
+      renderTreemap(buildMapData(results,'co2Grams'), results.url, "co2grams");
+      renderTreemap(buildMapData(results,'co2Litres'), results.url, "co2litres");
+      document.querySelector('#loading').style['display'] = 'none';
+    });
+} else {
+  document.querySelector('#warning').style['display'] = 'block';
+  document.querySelector('#loading').style['display'] = 'none';
+}
+</script>
+</body>
+</html>

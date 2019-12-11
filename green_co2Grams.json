@@ -1,0 +1,5072 @@
+{
+  "name": "Treemap for co2Grams",
+  "children": [
+    {
+      "name": "www.thesun.co.uk",
+      "children": [
+        {
+          "name": 0.03757457880012226,
+          "value": 0.03757457880012226,
+          "green": false,
+          "bytesPretty": "60.9 KB"
+        },
+        {
+          "name": 0.18234042958472857,
+          "value": 0.18234042958472857,
+          "green": false,
+          "bytesPretty": "295.4 KB"
+        },
+        {
+          "name": 0.0219363389670616,
+          "value": 0.0219363389670616,
+          "green": false,
+          "bytesPretty": "35.5 KB"
+        },
+        {
+          "name": 0.0015445323998574166,
+          "value": 0.0015445323998574166,
+          "green": false,
+          "bytesPretty": "2.5 KB"
+        },
+        {
+          "name": 0.0008048207469983026,
+          "value": 0.0008048207469983026,
+          "green": false,
+          "bytesPretty": "1.3 KB"
+        },
+        {
+          "name": 0.05007190770294983,
+          "value": 0.05007190770294983,
+          "green": false,
+          "bytesPretty": "81.1 KB"
+        },
+        {
+          "name": 0.0030185299477307127,
+          "value": 0.0030185299477307127,
+          "green": false,
+          "bytesPretty": "4.9 KB"
+        },
+        {
+          "name": 0.008846396735170856,
+          "value": 0.008846396735170856,
+          "green": false,
+          "bytesPretty": "14.3 KB"
+        },
+        {
+          "name": 0.026819521027500737,
+          "value": 0.026819521027500737,
+          "green": false,
+          "bytesPretty": "43.4 KB"
+        },
+        {
+          "name": 0.006733968347543851,
+          "value": 0.006733968347543851,
+          "green": false,
+          "bytesPretty": "10.9 KB"
+        },
+        {
+          "name": 0.0006052734307013452,
+          "value": 0.0006052734307013452,
+          "green": false,
+          "bytesPretty": "1004 Bytes"
+        },
+        {
+          "name": 0.0028057196678128093,
+          "value": 0.0028057196678128093,
+          "green": false,
+          "bytesPretty": "4.5 KB"
+        },
+        {
+          "name": 0.0020641994290053842,
+          "value": 0.0020641994290053842,
+          "green": false,
+          "bytesPretty": "3.3 KB"
+        },
+        {
+          "name": 0.0018212460499489678,
+          "value": 0.0018212460499489678,
+          "green": false,
+          "bytesPretty": "3.0 KB"
+        },
+        {
+          "name": 0.002034056329866871,
+          "value": 0.002034056329866871,
+          "green": false,
+          "bytesPretty": "3.3 KB"
+        },
+        {
+          "name": 0.002474145577289164,
+          "value": 0.002474145577289164,
+          "green": false,
+          "bytesPretty": "4.0 KB"
+        },
+        {
+          "name": 0.004453341466723941,
+          "value": 0.004453341466723941,
+          "green": false,
+          "bytesPretty": "7.2 KB"
+        },
+        {
+          "name": 0.0024482225120300424,
+          "value": 0.0024482225120300424,
+          "green": false,
+          "bytesPretty": "4.0 KB"
+        },
+        {
+          "name": 0.0029347321321256457,
+          "value": 0.0029347321321256457,
+          "green": false,
+          "bytesPretty": "4.8 KB"
+        },
+        {
+          "name": 0.004639625819399952,
+          "value": 0.004639625819399952,
+          "green": false,
+          "bytesPretty": "7.5 KB"
+        },
+        {
+          "name": 0.0029389521660050377,
+          "value": 0.0029389521660050377,
+          "green": false,
+          "bytesPretty": "4.8 KB"
+        },
+        {
+          "name": 0.0033706013456685467,
+          "value": 0.0033706013456685467,
+          "green": false,
+          "bytesPretty": "5.5 KB"
+        },
+        {
+          "name": 0.002919660582556389,
+          "value": 0.002919660582556389,
+          "green": false,
+          "bytesPretty": "4.7 KB"
+        },
+        {
+          "name": 0.019007032592780887,
+          "value": 0.019007032592780887,
+          "green": false,
+          "bytesPretty": "30.8 KB"
+        },
+        {
+          "name": 0.0006498852174263447,
+          "value": 0.0006498852174263447,
+          "green": false,
+          "bytesPretty": "1.1 KB"
+        },
+        {
+          "name": 0.053690888185519724,
+          "value": 0.053690888185519724,
+          "green": false,
+          "bytesPretty": "87.0 KB"
+        },
+        {
+          "name": 0.00280752825376112,
+          "value": 0.00280752825376112,
+          "green": false,
+          "bytesPretty": "4.5 KB"
+        },
+        {
+          "name": 0.003703984022140503,
+          "value": 0.003703984022140503,
+          "green": false,
+          "bytesPretty": "6.0 KB"
+        },
+        {
+          "name": 0.003821542108780704,
+          "value": 0.003821542108780704,
+          "green": false,
+          "bytesPretty": "6.2 KB"
+        },
+        {
+          "name": 0.0036449035478290166,
+          "value": 0.0036449035478290166,
+          "green": false,
+          "bytesPretty": "5.9 KB"
+        },
+        {
+          "name": 0.011576758655137383,
+          "value": 0.011576758655137383,
+          "green": false,
+          "bytesPretty": "18.8 KB"
+        },
+        {
+          "name": 0.002815968321519904,
+          "value": 0.002815968321519904,
+          "green": false,
+          "bytesPretty": "4.6 KB"
+        },
+        {
+          "name": 0.009896582309156656,
+          "value": 0.009896582309156656,
+          "green": false,
+          "bytesPretty": "16.0 KB"
+        },
+        {
+          "name": 0.006275190378655679,
+          "value": 0.006275190378655679,
+          "green": false,
+          "bytesPretty": "10.2 KB"
+        },
+        {
+          "name": 0.01426612596027553,
+          "value": 0.01426612596027553,
+          "green": false,
+          "bytesPretty": "23.1 KB"
+        },
+        {
+          "name": 0.01244126273842994,
+          "value": 0.01244126273842994,
+          "green": false,
+          "bytesPretty": "20.2 KB"
+        },
+        {
+          "name": 0.01198489621747285,
+          "value": 0.01198489621747285,
+          "green": false,
+          "bytesPretty": "19.4 KB"
+        },
+        {
+          "name": 0.012513003314379602,
+          "value": 0.012513003314379602,
+          "green": false,
+          "bytesPretty": "20.3 KB"
+        },
+        {
+          "name": 0.008912108691292815,
+          "value": 0.008912108691292815,
+          "green": false,
+          "bytesPretty": "14.4 KB"
+        },
+        {
+          "name": 0.007757025132304988,
+          "value": 0.007757025132304988,
+          "green": false,
+          "bytesPretty": "12.6 KB"
+        },
+        {
+          "name": 0.04142324969812762,
+          "value": 0.04142324969812762,
+          "green": false,
+          "bytesPretty": "67.1 KB"
+        },
+        {
+          "name": 0.044234997985768125,
+          "value": 0.044234997985768125,
+          "green": false,
+          "bytesPretty": "71.7 KB"
+        },
+        {
+          "name": 0.0454642335686367,
+          "value": 0.0454642335686367,
+          "green": false,
+          "bytesPretty": "73.6 KB"
+        },
+        {
+          "name": 0.039564626205246894,
+          "value": 0.039564626205246894,
+          "green": false,
+          "bytesPretty": "64.1 KB"
+        },
+        {
+          "name": 0.04709919526590965,
+          "value": 0.04709919526590965,
+          "green": false,
+          "bytesPretty": "76.3 KB"
+        },
+        {
+          "name": 0.0002827422699192539,
+          "value": 0.0002827422699192539,
+          "green": false,
+          "bytesPretty": "469 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.2 MB",
+      "value": 0.7790345314092703
+    },
+    {
+      "name": "c.amazon-adsystem.com",
+      "children": [
+        {
+          "name": 0.01579679253452923,
+          "value": 0.01579679253452923,
+          "green": false,
+          "bytesPretty": "25.6 KB"
+        },
+        {
+          "name": 0.0018369204615009949,
+          "value": 0.0018369204615009949,
+          "green": false,
+          "bytesPretty": "3.0 KB"
+        },
+        {
+          "name": 0.00022426465759053826,
+          "value": 0.00022426465759053826,
+          "green": false,
+          "bytesPretty": "372 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "28.9 KB",
+      "value": 0.017857977653620766
+    },
+    {
+      "name": "fonts.googleapis.com",
+      "children": [
+        {
+          "name": 0.0006299605504095033,
+          "value": 0.0006299605504095033,
+          "green": true,
+          "bytesPretty": "1.1 KB"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "1.1 KB",
+      "value": 0.0006299605504095033
+    },
+    {
+      "name": "secure.widget.cloud.opta.net",
+      "children": [
+        {
+          "name": 0.025947179738432167,
+          "value": 0.025947179738432167,
+          "green": false,
+          "bytesPretty": "42.0 KB"
+        },
+        {
+          "name": 0.11533473164774477,
+          "value": 0.11533473164774477,
+          "green": false,
+          "bytesPretty": "186.8 KB"
+        },
+        {
+          "name": 0.0009193645237246528,
+          "value": 0.0009193645237246528,
+          "green": false,
+          "bytesPretty": "1.5 KB"
+        },
+        {
+          "name": 0.0006378279777709394,
+          "value": 0.0006378279777709394,
+          "green": false,
+          "bytesPretty": "1.0 KB"
+        },
+        {
+          "name": 0.00047505524242296814,
+          "value": 0.00047505524242296814,
+          "green": false,
+          "bytesPretty": "788 Bytes"
+        },
+        {
+          "name": 0.027301207751734183,
+          "value": 0.027301207751734183,
+          "green": false,
+          "bytesPretty": "44.2 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "276.4 KB",
+      "value": 0.17061536688182966
+    },
+    {
+      "name": "cdn.cookielaw.org",
+      "children": [
+        {
+          "name": 0.10391652569407597,
+          "value": 0.10391652569407597,
+          "green": false,
+          "bytesPretty": "168.3 KB"
+        },
+        {
+          "name": 0.0034724850207567214,
+          "value": 0.0034724850207567214,
+          "green": false,
+          "bytesPretty": "5.6 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "174.0 KB",
+      "value": 0.1073890107148327
+    },
+    {
+      "name": "newscorp.grapeshot.co.uk",
+      "children": [
+        {
+          "name": 0.0002513934468152001,
+          "value": 0.0002513934468152001,
+          "green": false,
+          "bytesPretty": "417 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "417 Bytes",
+      "value": 0.0002513934468152001
+    },
+    {
+      "name": "fonts.gstatic.com",
+      "children": [
+        {
+          "name": 0.008792129381777734,
+          "value": 0.008792129381777734,
+          "green": true,
+          "bytesPretty": "15.7 KB"
+        },
+        {
+          "name": 0.008735853634429792,
+          "value": 0.008735853634429792,
+          "green": true,
+          "bytesPretty": "15.6 KB"
+        },
+        {
+          "name": 0.008705257111599841,
+          "value": 0.008705257111599841,
+          "green": true,
+          "bytesPretty": "15.6 KB"
+        },
+        {
+          "name": 0.010233444153660013,
+          "value": 0.010233444153660013,
+          "green": true,
+          "bytesPretty": "18.3 KB"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "65.2 KB",
+      "value": 0.036466684281467376
+    },
+    {
+      "name": "tags.tiqcdn.com",
+      "children": [
+        {
+          "name": 0.011154755267198196,
+          "value": 0.011154755267198196,
+          "green": false,
+          "bytesPretty": "18.1 KB"
+        },
+        {
+          "name": 0.01061639951658435,
+          "value": 0.01061639951658435,
+          "green": false,
+          "bytesPretty": "17.2 KB"
+        },
+        {
+          "name": 0.005560196067090146,
+          "value": 0.005560196067090146,
+          "green": false,
+          "bytesPretty": "9.0 KB"
+        },
+        {
+          "name": 0.0008687241171719505,
+          "value": 0.0008687241171719505,
+          "green": false,
+          "bytesPretty": "1.4 KB"
+        },
+        {
+          "name": 0.0006691768008749931,
+          "value": 0.0006691768008749931,
+          "green": false,
+          "bytesPretty": "1.1 KB"
+        },
+        {
+          "name": 0.0008204951585503295,
+          "value": 0.0008204951585503295,
+          "green": false,
+          "bytesPretty": "1.3 KB"
+        },
+        {
+          "name": 0.0007728690619114786,
+          "value": 0.0007728690619114786,
+          "green": false,
+          "bytesPretty": "1.3 KB"
+        },
+        {
+          "name": 0.0006390337017364799,
+          "value": 0.0006390337017364799,
+          "green": false,
+          "bytesPretty": "1.0 KB"
+        },
+        {
+          "name": 0.0007945720932912081,
+          "value": 0.0007945720932912081,
+          "green": false,
+          "bytesPretty": "1.3 KB"
+        },
+        {
+          "name": 0.0020153676084009933,
+          "value": 0.0020153676084009933,
+          "green": false,
+          "bytesPretty": "3.3 KB"
+        },
+        {
+          "name": 0.00212327990331687,
+          "value": 0.00212327990331687,
+          "green": false,
+          "bytesPretty": "3.4 KB"
+        },
+        {
+          "name": 0.0010592285037273543,
+          "value": 0.0010592285037273543,
+          "green": false,
+          "bytesPretty": "1.7 KB"
+        },
+        {
+          "name": 0.0007427259627729654,
+          "value": 0.0007427259627729654,
+          "green": false,
+          "bytesPretty": "1.2 KB"
+        },
+        {
+          "name": 0.0000837978156050667,
+          "value": 0.0000837978156050667,
+          "green": false,
+          "bytesPretty": "139 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "61.4 KB",
+      "value": 0.03792062157823238
+    },
+    {
+      "name": "s.go-mpulse.net",
+      "children": [
+        {
+          "name": 0.029063976189354437,
+          "value": 0.029063976189354437,
+          "green": false,
+          "bytesPretty": "47.1 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "47.1 KB",
+      "value": 0.029063976189354437
+    },
+    {
+      "name": "tags.crwdcntrl.net",
+      "children": [
+        {
+          "name": 0.007699753243941814,
+          "value": 0.007699753243941814,
+          "green": false,
+          "bytesPretty": "12.5 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "12.5 KB",
+      "value": 0.007699753243941814
+    },
+    {
+      "name": "ad.crwdcntrl.net",
+      "children": [
+        {
+          "name": 0.0002387333451770246,
+          "value": 0.0002387333451770246,
+          "green": false,
+          "bytesPretty": "396 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "396 Bytes",
+      "value": 0.0002387333451770246
+    },
+    {
+      "name": "securepubads.g.doubleclick.net",
+      "children": [
+        {
+          "name": 0.008870259788289927,
+          "value": 0.008870259788289927,
+          "green": true,
+          "bytesPretty": "15.9 KB"
+        },
+        {
+          "name": 0.03387909263642019,
+          "value": 0.03387909263642019,
+          "green": true,
+          "bytesPretty": "60.6 KB"
+        },
+        {
+          "name": 0.005936818161968484,
+          "value": 0.005936818161968484,
+          "green": true,
+          "bytesPretty": "10.6 KB"
+        },
+        {
+          "name": 0.013791382665599896,
+          "value": 0.013791382665599896,
+          "green": true,
+          "bytesPretty": "24.7 KB"
+        },
+        {
+          "name": 0.000156807179503493,
+          "value": 0.000156807179503493,
+          "green": true,
+          "bytesPretty": "287 Bytes"
+        },
+        {
+          "name": 0.000026225590997099878,
+          "value": 0.000026225590997099878,
+          "green": true,
+          "bytesPretty": "48 Bytes"
+        },
+        {
+          "name": 0.000026225590997099878,
+          "value": 0.000026225590997099878,
+          "green": true,
+          "bytesPretty": "48 Bytes"
+        },
+        {
+          "name": 0.000026225590997099878,
+          "value": 0.000026225590997099878,
+          "green": true,
+          "bytesPretty": "48 Bytes"
+        },
+        {
+          "name": 0.000026225590997099878,
+          "value": 0.000026225590997099878,
+          "green": true,
+          "bytesPretty": "48 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "112.1 KB",
+      "value": 0.0627392627957704
+    },
+    {
+      "name": "s.ntv.io",
+      "children": [
+        {
+          "name": 0.054390208085533236,
+          "value": 0.054390208085533236,
+          "green": false,
+          "bytesPretty": "88.1 KB"
+        },
+        {
+          "name": 0.0006836454884614795,
+          "value": 0.0006836454884614795,
+          "green": false,
+          "bytesPretty": "1.1 KB"
+        },
+        {
+          "name": 0.0009796507220016792,
+          "value": 0.0009796507220016792,
+          "green": false,
+          "bytesPretty": "1.6 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "90.8 KB",
+      "value": 0.05605350429599639
+    },
+    {
+      "name": "s0.wp.com",
+      "children": [
+        {
+          "name": 0.0020093389885732903,
+          "value": 0.0020093389885732903,
+          "green": false,
+          "bytesPretty": "3.3 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "3.3 KB",
+      "value": 0.0020093389885732903
+    },
+    {
+      "name": "stats.wp.com",
+      "children": [
+        {
+          "name": 0.0018875608680536972,
+          "value": 0.0018875608680536972,
+          "green": false,
+          "bytesPretty": "3.1 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "3.1 KB",
+      "value": 0.0018875608680536972
+    },
+    {
+      "name": "ap.lijit.com",
+      "children": [
+        {
+          "name": 0.0013865825603716073,
+          "value": 0.0013865825603716073,
+          "green": false,
+          "bytesPretty": "2.2 KB"
+        },
+        {
+          "name": 0.0004431035573361441,
+          "value": 0.0004431035573361441,
+          "green": false,
+          "bytesPretty": "735 Bytes"
+        },
+        {
+          "name": 0.0015734697750303893,
+          "value": 0.0015734697750303893,
+          "green": false,
+          "bytesPretty": "2.5 KB"
+        },
+        {
+          "name": 0.0002423505170736462,
+          "value": 0.0002423505170736462,
+          "green": false,
+          "bytesPretty": "402 Bytes"
+        },
+        {
+          "name": 0.0003279569186270237,
+          "value": 0.0003279569186270237,
+          "green": false,
+          "bytesPretty": "544 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "6.4 KB",
+      "value": 0.003973463328438811
+    },
+    {
+      "name": "d1z2jf7jlzjs58.cloudfront.net",
+      "children": [
+        {
+          "name": 0.002093136804178357,
+          "value": 0.002093136804178357,
+          "green": false,
+          "bytesPretty": "3.4 KB"
+        },
+        {
+          "name": 0.03323578111012466,
+          "value": 0.03323578111012466,
+          "green": false,
+          "bytesPretty": "53.8 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "57.2 KB",
+      "value": 0.03532891791430302
+    },
+    {
+      "name": "connect.facebook.net",
+      "children": [
+        {
+          "name": 0.014797243353634498,
+          "value": 0.014797243353634498,
+          "green": true,
+          "bytesPretty": "26.4 KB"
+        },
+        {
+          "name": 0.0011528332709141822,
+          "value": 0.0011528332709141822,
+          "green": true,
+          "bytesPretty": "2.1 KB"
+        },
+        {
+          "name": 0.04783438524575196,
+          "value": 0.04783438524575196,
+          "green": true,
+          "bytesPretty": "85.5 KB"
+        },
+        {
+          "name": 0.03269457010971784,
+          "value": 0.03269457010971784,
+          "green": true,
+          "bytesPretty": "58.4 KB"
+        },
+        {
+          "name": 0.047635507847357275,
+          "value": 0.047635507847357275,
+          "green": true,
+          "bytesPretty": "85.1 KB"
+        },
+        {
+          "name": 0.0476366005803155,
+          "value": 0.0476366005803155,
+          "green": true,
+          "bytesPretty": "85.1 KB"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "342.7 KB",
+      "value": 0.19175114040769126
+    },
+    {
+      "name": "c.go-mpulse.net",
+      "children": [
+        {
+          "name": 0.0012672158877830952,
+          "value": 0.0012672158877830952,
+          "green": false,
+          "bytesPretty": "2.1 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "2.1 KB",
+      "value": 0.0012672158877830952
+    },
+    {
+      "name": "ampcid.google.com",
+      "children": [
+        {
+          "name": 0.00028957423392631106,
+          "value": 0.00028957423392631106,
+          "green": true,
+          "bytesPretty": "530 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "530 Bytes",
+      "value": 0.00028957423392631106
+    },
+    {
+      "name": "adservice.google.fr",
+      "children": [
+        {
+          "name": 0.00042507312074466046,
+          "value": 0.00042507312074466046,
+          "green": true,
+          "bytesPretty": "778 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "778 Bytes",
+      "value": 0.00042507312074466046
+    },
+    {
+      "name": "adservice.google.com",
+      "children": [
+        {
+          "name": 0.00042507312074466046,
+          "value": 0.00042507312074466046,
+          "green": true,
+          "bytesPretty": "778 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "778 Bytes",
+      "value": 0.00042507312074466046
+    },
+    {
+      "name": "pixel.wp.com",
+      "children": [
+        {
+          "name": 0.00006932912801858037,
+          "value": 0.00006932912801858037,
+          "green": false,
+          "bytesPretty": "115 Bytes"
+        },
+        {
+          "name": 0.000056066164397634566,
+          "value": 0.000056066164397634566,
+          "green": false,
+          "bytesPretty": "93 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "208 Bytes",
+      "value": 0.00012539529241621493
+    },
+    {
+      "name": "geolocation.onetrust.com",
+      "children": [
+        {
+          "name": 0.00020652652910216148,
+          "value": 0.00020652652910216148,
+          "green": true,
+          "bytesPretty": "378 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "378 Bytes",
+      "value": 0.00020652652910216148
+    },
+    {
+      "name": "ampcid.google.fr",
+      "children": [
+        {
+          "name": 0.0002507822139097675,
+          "value": 0.0002507822139097675,
+          "green": true,
+          "bytesPretty": "459 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "459 Bytes",
+      "value": 0.0002507822139097675
+    },
+    {
+      "name": "jadserve.postrelease.com",
+      "children": [
+        {
+          "name": 0.001640990317100659,
+          "value": 0.001640990317100659,
+          "green": false,
+          "bytesPretty": "2.7 KB"
+        },
+        {
+          "name": 0.00020437021215911953,
+          "value": 0.00020437021215911953,
+          "green": false,
+          "bytesPretty": "339 Bytes"
+        },
+        {
+          "name": 0.0005094183754408732,
+          "value": 0.0005094183754408732,
+          "green": false,
+          "bytesPretty": "845 Bytes"
+        },
+        {
+          "name": 0.00020437021215911953,
+          "value": 0.00020437021215911953,
+          "green": false,
+          "bytesPretty": "339 Bytes"
+        },
+        {
+          "name": 0.00020919310802128166,
+          "value": 0.00020919310802128166,
+          "green": false,
+          "bytesPretty": "347 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "4.5 KB",
+      "value": 0.002768342224881053
+    },
+    {
+      "name": "sb.scorecardresearch.com",
+      "children": [
+        {
+          "name": 0.00024114479310810566,
+          "value": 0.00024114479310810566,
+          "green": false,
+          "bytesPretty": "400 Bytes"
+        },
+        {
+          "name": 0.0003544828458689153,
+          "value": 0.0003544828458689153,
+          "green": false,
+          "bytesPretty": "588 Bytes"
+        },
+        {
+          "name": 0.00014950977172702553,
+          "value": 0.00014950977172702553,
+          "green": false,
+          "bytesPretty": "248 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.2 KB",
+      "value": 0.0007451374107040465
+    },
+    {
+      "name": "stats.g.doubleclick.net",
+      "children": [
+        {
+          "name": 0.00024750401503513005,
+          "value": 0.00024750401503513005,
+          "green": true,
+          "bytesPretty": "453 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "453 Bytes",
+      "value": 0.00024750401503513005
+    },
+    {
+      "name": "cdn.permutive.com",
+      "children": [
+        {
+          "name": 0.01787765756283552,
+          "value": 0.01787765756283552,
+          "green": true,
+          "bytesPretty": "32.0 KB"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "32.0 KB",
+      "value": 0.01787765756283552
+    },
+    {
+      "name": "pixelappcollector.thesun.co.uk",
+      "children": [
+        {
+          "name": 0.00028455085586756465,
+          "value": 0.00028455085586756465,
+          "green": false,
+          "bytesPretty": "472 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "472 Bytes",
+      "value": 0.00028455085586756465
+    },
+    {
+      "name": "cdn.decibelinsight.net",
+      "children": [
+        {
+          "name": 0.00030022526741959156,
+          "value": 0.00030022526741959156,
+          "green": false,
+          "bytesPretty": "498 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "498 Bytes",
+      "value": 0.00030022526741959156
+    },
+    {
+      "name": "cdn.krxd.net",
+      "children": [
+        {
+          "name": 0.006991993276169523,
+          "value": 0.006991993276169523,
+          "green": false,
+          "bytesPretty": "11.3 KB"
+        },
+        {
+          "name": 0.04920016927586403,
+          "value": 0.04920016927586403,
+          "green": false,
+          "bytesPretty": "79.7 KB"
+        },
+        {
+          "name": 0.000737300204928033,
+          "value": 0.000737300204928033,
+          "green": false,
+          "bytesPretty": "1.2 KB"
+        },
+        {
+          "name": 0.0069925961381522945,
+          "value": 0.0069925961381522945,
+          "green": false,
+          "bytesPretty": "11.3 KB"
+        },
+        {
+          "name": 0.00046842376061249517,
+          "value": 0.00046842376061249517,
+          "green": false,
+          "bytesPretty": "777 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "104.3 KB",
+      "value": 0.06439048265572637
+    },
+    {
+      "name": "srv-2019-12-06-16.config.parsely.com",
+      "children": [
+        {
+          "name": 0.0005269013729412109,
+          "value": 0.0005269013729412109,
+          "green": false,
+          "bytesPretty": "874 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "874 Bytes",
+      "value": 0.0005269013729412109
+    },
+    {
+      "name": "ak.sail-horizon.com",
+      "children": [
+        {
+          "name": 0.026259462245507164,
+          "value": 0.026259462245507164,
+          "green": false,
+          "bytesPretty": "42.5 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "42.5 KB",
+      "value": 0.026259462245507164
+    },
+    {
+      "name": "s.skimresources.com",
+      "children": [
+        {
+          "name": 0.008130799561622552,
+          "value": 0.008130799561622552,
+          "green": false,
+          "bytesPretty": "13.2 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "13.2 KB",
+      "value": 0.008130799561622552
+    },
+    {
+      "name": "us.tags.newscgp.com",
+      "children": [
+        {
+          "name": 0.024567831521853805,
+          "value": 0.024567831521853805,
+          "green": false,
+          "bytesPretty": "39.8 KB"
+        },
+        {
+          "name": 0.0016289330774452537,
+          "value": 0.0016289330774452537,
+          "green": false,
+          "bytesPretty": "2.6 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "42.4 KB",
+      "value": 0.02619676459929906
+    },
+    {
+      "name": "as-sec.casalemedia.com",
+      "children": [
+        {
+          "name": 0.0002640535484533757,
+          "value": 0.0002640535484533757,
+          "green": false,
+          "bytesPretty": "438 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "438 Bytes",
+      "value": 0.0002640535484533757
+    },
+    {
+      "name": "fastlane.rubiconproject.com",
+      "children": [
+        {
+          "name": 0.0004485293151810765,
+          "value": 0.0004485293151810765,
+          "green": false,
+          "bytesPretty": "744 Bytes"
+        },
+        {
+          "name": 0.000447323591215536,
+          "value": 0.000447323591215536,
+          "green": false,
+          "bytesPretty": "742 Bytes"
+        },
+        {
+          "name": 0.0004352663515601307,
+          "value": 0.0004352663515601307,
+          "green": false,
+          "bytesPretty": "722 Bytes"
+        },
+        {
+          "name": 0.0004352663515601307,
+          "value": 0.0004352663515601307,
+          "green": false,
+          "bytesPretty": "722 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "2.9 KB",
+      "value": 0.001766385609516874
+    },
+    {
+      "name": "elb.the-ozone-project.com",
+      "children": [
+        {
+          "name": 0.00023029327741824093,
+          "value": 0.00023029327741824093,
+          "green": false,
+          "bytesPretty": "382 Bytes"
+        },
+        {
+          "name": 0.006585664299782366,
+          "value": 0.006585664299782366,
+          "green": false,
+          "bytesPretty": "10.7 KB"
+        },
+        {
+          "name": 0.0016976593434810637,
+          "value": 0.0016976593434810637,
+          "green": false,
+          "bytesPretty": "2.8 KB"
+        },
+        {
+          "name": 0.00022547038155607877,
+          "value": 0.00022547038155607877,
+          "green": false,
+          "bytesPretty": "374 Bytes"
+        },
+        {
+          "name": 0.0003056510252645239,
+          "value": 0.0003056510252645239,
+          "green": false,
+          "bytesPretty": "507 Bytes"
+        },
+        {
+          "name": 0.0003816116350935772,
+          "value": 0.0003816116350935772,
+          "green": false,
+          "bytesPretty": "633 Bytes"
+        },
+        {
+          "name": 0.00045516079699154944,
+          "value": 0.00045516079699154944,
+          "green": false,
+          "bytesPretty": "755 Bytes"
+        },
+        {
+          "name": 0.0005184613051824272,
+          "value": 0.0005184613051824272,
+          "green": false,
+          "bytesPretty": "860 Bytes"
+        },
+        {
+          "name": 0.0005932161910459398,
+          "value": 0.0005932161910459398,
+          "green": false,
+          "bytesPretty": "984 Bytes"
+        },
+        {
+          "name": 0.0006589281471678988,
+          "value": 0.0006589281471678988,
+          "green": false,
+          "bytesPretty": "1.1 KB"
+        },
+        {
+          "name": 0.0007366973429452628,
+          "value": 0.0007366973429452628,
+          "green": false,
+          "bytesPretty": "1.2 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "20.1 KB",
+      "value": 0.012388813745928928
+    },
+    {
+      "name": "bidder.criteo.com",
+      "children": [
+        {
+          "name": 0.00008801784948445856,
+          "value": 0.00008801784948445856,
+          "green": false,
+          "bytesPretty": "146 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "146 Bytes",
+      "value": 0.00008801784948445856
+    },
+    {
+      "name": "news-uk-d.openx.net",
+      "children": [
+        {
+          "name": 0.00038682746720722307,
+          "value": 0.00038682746720722307,
+          "green": true,
+          "bytesPretty": "708 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "708 Bytes",
+      "value": 0.00038682746720722307
+    },
+    {
+      "name": "ib.adnxs.com",
+      "children": [
+        {
+          "name": 0.00043044345569796864,
+          "value": 0.00043044345569796864,
+          "green": false,
+          "bytesPretty": "714 Bytes"
+        },
+        {
+          "name": 0.00042381197388749567,
+          "value": 0.00042381197388749567,
+          "green": false,
+          "bytesPretty": "703 Bytes"
+        },
+        {
+          "name": 0.0005727188836317509,
+          "value": 0.0005727188836317509,
+          "green": false,
+          "bytesPretty": "950 Bytes"
+        },
+        {
+          "name": 0.0005516187142347918,
+          "value": 0.0005516187142347918,
+          "green": false,
+          "bytesPretty": "915 Bytes"
+        },
+        {
+          "name": 0.0005377528886310756,
+          "value": 0.0005377528886310756,
+          "green": false,
+          "bytesPretty": "892 Bytes"
+        },
+        {
+          "name": 0.0005365471646655351,
+          "value": 0.0005365471646655351,
+          "green": false,
+          "bytesPretty": "890 Bytes"
+        },
+        {
+          "name": 0.0005642788158729673,
+          "value": 0.0005642788158729673,
+          "green": false,
+          "bytesPretty": "936 Bytes"
+        },
+        {
+          "name": 0.0006739996967371554,
+          "value": 0.0006739996967371554,
+          "green": false,
+          "bytesPretty": "1.1 KB"
+        },
+        {
+          "name": 0.0006733968347543851,
+          "value": 0.0006733968347543851,
+          "green": false,
+          "bytesPretty": "1.1 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "8.0 KB",
+      "value": 0.004964568428113126
+    },
+    {
+      "name": "bcp.crwdcntrl.net",
+      "children": [
+        {
+          "name": 0.00021883889974560588,
+          "value": 0.00021883889974560588,
+          "green": false,
+          "bytesPretty": "363 Bytes"
+        },
+        {
+          "name": 0.0006088906025979668,
+          "value": 0.0006088906025979668,
+          "green": false,
+          "bytesPretty": "1010 Bytes"
+        },
+        {
+          "name": 0.0007155971735483034,
+          "value": 0.0007155971735483034,
+          "green": false,
+          "bytesPretty": "1.2 KB"
+        },
+        {
+          "name": 0.0010501855739858,
+          "value": 0.0010501855739858,
+          "green": false,
+          "bytesPretty": "1.7 KB"
+        },
+        {
+          "name": 0.0006842483504442497,
+          "value": 0.0006842483504442497,
+          "green": false,
+          "bytesPretty": "1.1 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "5.3 KB",
+      "value": 0.0032777606003219256
+    },
+    {
+      "name": "www.google.com",
+      "children": [
+        {
+          "name": 0.0003048724953412861,
+          "value": 0.0003048724953412861,
+          "green": true,
+          "bytesPretty": "558 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "558 Bytes",
+      "value": 0.0003048724953412861
+    },
+    {
+      "name": "api.permutive.com",
+      "children": [
+        {
+          "name": 0.00027919327082329246,
+          "value": 0.00027919327082329246,
+          "green": true,
+          "bytesPretty": "511 Bytes"
+        },
+        {
+          "name": 0.00023821578489032389,
+          "value": 0.00023821578489032389,
+          "green": true,
+          "bytesPretty": "436 Bytes"
+        },
+        {
+          "name": 0.00006064667918079346,
+          "value": 0.00006064667918079346,
+          "green": true,
+          "bytesPretty": "111 Bytes"
+        },
+        {
+          "name": 0.00009998506567644326,
+          "value": 0.00009998506567644326,
+          "green": true,
+          "bytesPretty": "183 Bytes"
+        },
+        {
+          "name": 0.00004917298311956227,
+          "value": 0.00004917298311956227,
+          "green": true,
+          "bytesPretty": "90 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "1.3 KB",
+      "value": 0.0007272137836904154
+    },
+    {
+      "name": "www.google.fr",
+      "children": [
+        {
+          "name": 0.0002611631770127863,
+          "value": 0.0002611631770127863,
+          "green": true,
+          "bytesPretty": "478 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "478 Bytes",
+      "value": 0.0002611631770127863
+    },
+    {
+      "name": "tpc.googlesyndication.com",
+      "children": [
+        {
+          "name": 0.00020106286431109902,
+          "value": 0.00020106286431109902,
+          "green": true,
+          "bytesPretty": "368 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "368 Bytes",
+      "value": 0.00020106286431109902
+    },
+    {
+      "name": "www.facebook.com",
+      "children": [
+        {
+          "name": 0.00019669193247824908,
+          "value": 0.00019669193247824908,
+          "green": true,
+          "bytesPretty": "360 Bytes"
+        },
+        {
+          "name": 0.00007976950594951213,
+          "value": 0.00007976950594951213,
+          "green": true,
+          "bytesPretty": "146 Bytes"
+        },
+        {
+          "name": 0.00007976950594951213,
+          "value": 0.00007976950594951213,
+          "green": true,
+          "bytesPretty": "146 Bytes"
+        },
+        {
+          "name": 0.000054636647910624745,
+          "value": 0.000054636647910624745,
+          "green": true,
+          "bytesPretty": "100 Bytes"
+        },
+        {
+          "name": 0.000054636647910624745,
+          "value": 0.000054636647910624745,
+          "green": true,
+          "bytesPretty": "100 Bytes"
+        },
+        {
+          "name": 0.000054636647910624745,
+          "value": 0.000054636647910624745,
+          "green": true,
+          "bytesPretty": "100 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "952 Bytes",
+      "value": 0.0005201408881091475
+    },
+    {
+      "name": "staticxx.facebook.com",
+      "children": [
+        {
+          "name": 0.007084734134570709,
+          "value": 0.007084734134570709,
+          "green": true,
+          "bytesPretty": "12.7 KB"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "12.7 KB",
+      "value": 0.007084734134570709
+    },
+    {
+      "name": "api.sail-personalize.com",
+      "children": [
+        {
+          "name": 0.00029057947569526737,
+          "value": 0.00029057947569526737,
+          "green": false,
+          "bytesPretty": "482 Bytes"
+        },
+        {
+          "name": 0.00033760271035134794,
+          "value": 0.00033760271035134794,
+          "green": false,
+          "bytesPretty": "560 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.0 KB",
+      "value": 0.0006281821860466153
+    },
+    {
+      "name": "t.skimresources.com",
+      "children": [
+        {
+          "name": 0.00005736848030615598,
+          "value": 0.00005736848030615598,
+          "green": true,
+          "bytesPretty": "105 Bytes"
+        },
+        {
+          "name": 0.00021035109445590523,
+          "value": 0.00021035109445590523,
+          "green": true,
+          "bytesPretty": "385 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "490 Bytes",
+      "value": 0.0002677195747620612
+    },
+    {
+      "name": "p.skimresources.com",
+      "children": [
+        {
+          "name": 0.00030745961121283474,
+          "value": 0.00030745961121283474,
+          "green": false,
+          "bytesPretty": "510 Bytes"
+        },
+        {
+          "name": 0.0001006779511226341,
+          "value": 0.0001006779511226341,
+          "green": false,
+          "bytesPretty": "167 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "677 Bytes",
+      "value": 0.0004081375623354688
+    },
+    {
+      "name": "r.skimresources.com",
+      "children": [
+        {
+          "name": 0.00028083237026061114,
+          "value": 0.00028083237026061114,
+          "green": true,
+          "bytesPretty": "514 Bytes"
+        },
+        {
+          "name": 0.00028083237026061114,
+          "value": 0.00028083237026061114,
+          "green": true,
+          "bytesPretty": "514 Bytes"
+        },
+        {
+          "name": 0.0002518749468679801,
+          "value": 0.0002518749468679801,
+          "green": true,
+          "bytesPretty": "461 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "1.5 KB",
+      "value": 0.0008135396873892024
+    },
+    {
+      "name": "sync.crwdcntrl.net",
+      "children": [
+        {
+          "name": 0.00026586213440168646,
+          "value": 0.00026586213440168646,
+          "green": false,
+          "bytesPretty": "441 Bytes"
+        },
+        {
+          "name": 0.0002049730741418898,
+          "value": 0.0002049730741418898,
+          "green": false,
+          "bytesPretty": "340 Bytes"
+        },
+        {
+          "name": 0.00020376735017634928,
+          "value": 0.00020376735017634928,
+          "green": false,
+          "bytesPretty": "338 Bytes"
+        },
+        {
+          "name": 0.00020195876422803848,
+          "value": 0.00020195876422803848,
+          "green": false,
+          "bytesPretty": "335 Bytes"
+        },
+        {
+          "name": 0.00020195876422803848,
+          "value": 0.00020195876422803848,
+          "green": false,
+          "bytesPretty": "335 Bytes"
+        },
+        {
+          "name": 0.00020256162621080877,
+          "value": 0.00020256162621080877,
+          "green": false,
+          "bytesPretty": "336 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "2.1 KB",
+      "value": 0.0012810817133868113
+    },
+    {
+      "name": "secure.quantserve.com",
+      "children": [
+        {
+          "name": 0.003506245291791856,
+          "value": 0.003506245291791856,
+          "green": false,
+          "bytesPretty": "5.7 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "5.7 KB",
+      "value": 0.003506245291791856
+    },
+    {
+      "name": "tags.bluekai.com",
+      "children": [
+        {
+          "name": 0.00045154362509492786,
+          "value": 0.00045154362509492786,
+          "green": false,
+          "bytesPretty": "749 Bytes"
+        },
+        {
+          "name": 0.00019834159233141692,
+          "value": 0.00019834159233141692,
+          "green": false,
+          "bytesPretty": "329 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.1 KB",
+      "value": 0.0006498852174263447
+    },
+    {
+      "name": "beacon.krxd.net",
+      "children": [
+        {
+          "name": 0.00019291583448648452,
+          "value": 0.00019291583448648452,
+          "green": false,
+          "bytesPretty": "320 Bytes"
+        },
+        {
+          "name": 0.00019291583448648452,
+          "value": 0.00019291583448648452,
+          "green": false,
+          "bytesPretty": "320 Bytes"
+        },
+        {
+          "name": 0.00019291583448648452,
+          "value": 0.00019291583448648452,
+          "green": false,
+          "bytesPretty": "320 Bytes"
+        },
+        {
+          "name": 0.00019291583448648452,
+          "value": 0.00019291583448648452,
+          "green": false,
+          "bytesPretty": "320 Bytes"
+        },
+        {
+          "name": 0.00019291583448648452,
+          "value": 0.00019291583448648452,
+          "green": false,
+          "bytesPretty": "320 Bytes"
+        },
+        {
+          "name": 0.00019291583448648452,
+          "value": 0.00019291583448648452,
+          "green": false,
+          "bytesPretty": "320 Bytes"
+        },
+        {
+          "name": 0.00019291583448648452,
+          "value": 0.00019291583448648452,
+          "green": false,
+          "bytesPretty": "320 Bytes"
+        },
+        {
+          "name": 0.00019291583448648452,
+          "value": 0.00019291583448648452,
+          "green": false,
+          "bytesPretty": "320 Bytes"
+        },
+        {
+          "name": 0.00019291583448648452,
+          "value": 0.00019291583448648452,
+          "green": false,
+          "bytesPretty": "320 Bytes"
+        },
+        {
+          "name": 0.00019291583448648452,
+          "value": 0.00019291583448648452,
+          "green": false,
+          "bytesPretty": "320 Bytes"
+        },
+        {
+          "name": 0.00014468687586486337,
+          "value": 0.00014468687586486337,
+          "green": false,
+          "bytesPretty": "240 Bytes"
+        },
+        {
+          "name": 0.00019291583448648452,
+          "value": 0.00019291583448648452,
+          "green": false,
+          "bytesPretty": "320 Bytes"
+        },
+        {
+          "name": 0.00019291583448648452,
+          "value": 0.00019291583448648452,
+          "green": false,
+          "bytesPretty": "320 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "4.0 KB",
+      "value": 0.0024596768897026775
+    },
+    {
+      "name": "idsync.rlcdn.com",
+      "children": [
+        {
+          "name": 0.00003387472170458734,
+          "value": 0.00003387472170458734,
+          "green": true,
+          "bytesPretty": "62 Bytes"
+        },
+        {
+          "name": 0.00022455662291266768,
+          "value": 0.00022455662291266768,
+          "green": true,
+          "bytesPretty": "411 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "473 Bytes",
+      "value": 0.000258431344617255
+    },
+    {
+      "name": "us.pixel.newscgp.com",
+      "children": [
+        {
+          "name": 0.0003219282987993211,
+          "value": 0.0003219282987993211,
+          "green": false,
+          "bytesPretty": "534 Bytes"
+        },
+        {
+          "name": 0.0003219282987993211,
+          "value": 0.0003219282987993211,
+          "green": false,
+          "bytesPretty": "534 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.0 KB",
+      "value": 0.0006438565975986422
+    },
+    {
+      "name": "www.ncaudienceexchange.com",
+      "children": [
+        {
+          "name": 0.001531872298219241,
+          "value": 0.001531872298219241,
+          "green": false,
+          "bytesPretty": "2.5 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "2.5 KB",
+      "value": 0.001531872298219241
+    },
+    {
+      "name": "tags.realtor.com",
+      "children": [
+        {
+          "name": 0.001629535939428024,
+          "value": 0.001629535939428024,
+          "green": false,
+          "bytesPretty": "2.6 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "2.6 KB",
+      "value": 0.001629535939428024
+    },
+    {
+      "name": "tags.barrons.com",
+      "children": [
+        {
+          "name": 0.0016289330774452537,
+          "value": 0.0016289330774452537,
+          "green": false,
+          "bytesPretty": "2.6 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "2.6 KB",
+      "value": 0.0016289330774452537
+    },
+    {
+      "name": "tags.mansionglobal.com",
+      "children": [
+        {
+          "name": 0.0016289330774452537,
+          "value": 0.0016289330774452537,
+          "green": false,
+          "bytesPretty": "2.6 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "2.6 KB",
+      "value": 0.0016289330774452537
+    },
+    {
+      "name": "tags.marketwatch.com",
+      "children": [
+        {
+          "name": 0.0016289330774452537,
+          "value": 0.0016289330774452537,
+          "green": false,
+          "bytesPretty": "2.6 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "2.6 KB",
+      "value": 0.0016289330774452537
+    },
+    {
+      "name": "tags.wsj.com",
+      "children": [
+        {
+          "name": 0.0016289330774452537,
+          "value": 0.0016289330774452537,
+          "green": false,
+          "bytesPretty": "2.6 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "2.6 KB",
+      "value": 0.0016289330774452537
+    },
+    {
+      "name": "tags.nypost.com",
+      "children": [
+        {
+          "name": 0.0016289330774452537,
+          "value": 0.0016289330774452537,
+          "green": false,
+          "bytesPretty": "2.6 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "2.6 KB",
+      "value": 0.0016289330774452537
+    },
+    {
+      "name": "tags.decider.com",
+      "children": [
+        {
+          "name": 0.0016331531113246455,
+          "value": 0.0016331531113246455,
+          "green": false,
+          "bytesPretty": "2.6 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "2.6 KB",
+      "value": 0.0016331531113246455
+    },
+    {
+      "name": "tags.pagesix.com",
+      "children": [
+        {
+          "name": 0.0016289330774452537,
+          "value": 0.0016289330774452537,
+          "green": false,
+          "bytesPretty": "2.6 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "2.6 KB",
+      "value": 0.0016289330774452537
+    },
+    {
+      "name": "tags.knewz.com",
+      "children": [
+        {
+          "name": 0.0038812254450749603,
+          "value": 0.0038812254450749603,
+          "green": false,
+          "bytesPretty": "6.3 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "6.3 KB",
+      "value": 0.0038812254450749603
+    },
+    {
+      "name": "secure.adnxs.com",
+      "children": [
+        {
+          "name": 0.0005817618133733049,
+          "value": 0.0005817618133733049,
+          "green": false,
+          "bytesPretty": "965 Bytes"
+        },
+        {
+          "name": 0.0005461929563898593,
+          "value": 0.0005461929563898593,
+          "green": false,
+          "bytesPretty": "906 Bytes"
+        },
+        {
+          "name": 0.00035508570785168557,
+          "value": 0.00035508570785168557,
+          "green": false,
+          "bytesPretty": "589 Bytes"
+        },
+        {
+          "name": 0.0005473986803553998,
+          "value": 0.0005473986803553998,
+          "green": false,
+          "bytesPretty": "908 Bytes"
+        },
+        {
+          "name": 0.000543178646476008,
+          "value": 0.000543178646476008,
+          "green": false,
+          "bytesPretty": "901 Bytes"
+        },
+        {
+          "name": 0.0005317242688033729,
+          "value": 0.0005317242688033729,
+          "green": false,
+          "bytesPretty": "882 Bytes"
+        },
+        {
+          "name": 0.0005709102976834402,
+          "value": 0.0005709102976834402,
+          "green": false,
+          "bytesPretty": "947 Bytes"
+        },
+        {
+          "name": 0.0005715131596662103,
+          "value": 0.0005715131596662103,
+          "green": false,
+          "bytesPretty": "948 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "6.9 KB",
+      "value": 0.00424776553059928
+    },
+    {
+      "name": "eus.rubiconproject.com",
+      "children": [
+        {
+          "name": 0.004757786768022925,
+          "value": 0.004757786768022925,
+          "green": false,
+          "bytesPretty": "7.7 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "7.7 KB",
+      "value": 0.004757786768022925
+    },
+    {
+      "name": "acdn.adnxs.com",
+      "children": [
+        {
+          "name": 0.0005287099588895216,
+          "value": 0.0005287099588895216,
+          "green": false,
+          "bytesPretty": "877 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "877 Bytes",
+      "value": 0.0005287099588895216
+    },
+    {
+      "name": "eu-u.openx.net",
+      "children": [
+        {
+          "name": 0.0006627425391558782,
+          "value": 0.0006627425391558782,
+          "green": true,
+          "bytesPretty": "1.2 KB"
+        },
+        {
+          "name": 0.00006556397749274968,
+          "value": 0.00006556397749274968,
+          "green": true,
+          "bytesPretty": "120 Bytes"
+        },
+        {
+          "name": 0.00005955394622258097,
+          "value": 0.00005955394622258097,
+          "green": true,
+          "bytesPretty": "109 Bytes"
+        },
+        {
+          "name": 0.00005955394622258097,
+          "value": 0.00005955394622258097,
+          "green": true,
+          "bytesPretty": "109 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "1.5 KB",
+      "value": 0.0008474144090937897
+    },
+    {
+      "name": "consumer.krxd.net",
+      "children": [
+        {
+          "name": 0.00042682628380134695,
+          "value": 0.00042682628380134695,
+          "green": false,
+          "bytesPretty": "708 Bytes"
+        },
+        {
+          "name": 0.0003671429475070909,
+          "value": 0.0003671429475070909,
+          "green": false,
+          "bytesPretty": "609 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.3 KB",
+      "value": 0.0007939692313084378
+    },
+    {
+      "name": "x.bidswitch.net",
+      "children": [
+        {
+          "name": 0.00029359378560911864,
+          "value": 0.00029359378560911864,
+          "green": false,
+          "bytesPretty": "487 Bytes"
+        },
+        {
+          "name": 0.00027972796000540255,
+          "value": 0.00027972796000540255,
+          "green": false,
+          "bytesPretty": "464 Bytes"
+        },
+        {
+          "name": 0.00021401600388344376,
+          "value": 0.00021401600388344376,
+          "green": false,
+          "bytesPretty": "355 Bytes"
+        },
+        {
+          "name": 0.00011996953457128257,
+          "value": 0.00011996953457128257,
+          "green": false,
+          "bytesPretty": "199 Bytes"
+        },
+        {
+          "name": 0.0001796528708655387,
+          "value": 0.0001796528708655387,
+          "green": false,
+          "bytesPretty": "298 Bytes"
+        },
+        {
+          "name": 0.00020919310802128166,
+          "value": 0.00020919310802128166,
+          "green": false,
+          "bytesPretty": "347 Bytes"
+        },
+        {
+          "name": 0.00013865825603716074,
+          "value": 0.00013865825603716074,
+          "green": false,
+          "bytesPretty": "230 Bytes"
+        },
+        {
+          "name": 0.00012057239655405283,
+          "value": 0.00012057239655405283,
+          "green": false,
+          "bytesPretty": "200 Bytes"
+        },
+        {
+          "name": 0.00024415910302195694,
+          "value": 0.00024415910302195694,
+          "green": false,
+          "bytesPretty": "405 Bytes"
+        },
+        {
+          "name": 0.00024415910302195694,
+          "value": 0.00024415910302195694,
+          "green": false,
+          "bytesPretty": "405 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "3.3 KB",
+      "value": 0.002043702121591195
+    },
+    {
+      "name": "ad.turn.com",
+      "children": [
+        {
+          "name": 0.00017844714689999817,
+          "value": 0.00017844714689999817,
+          "green": false,
+          "bytesPretty": "296 Bytes"
+        },
+        {
+          "name": 0.00017844714689999817,
+          "value": 0.00017844714689999817,
+          "green": false,
+          "bytesPretty": "296 Bytes"
+        },
+        {
+          "name": 0.00017844714689999817,
+          "value": 0.00017844714689999817,
+          "green": false,
+          "bytesPretty": "296 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "888 Bytes",
+      "value": 0.0005353414406999945
+    },
+    {
+      "name": "sync.mathtag.com",
+      "children": [
+        {
+          "name": 0.00041778335405979306,
+          "value": 0.00041778335405979306,
+          "green": false,
+          "bytesPretty": "693 Bytes"
+        },
+        {
+          "name": 0.0004786724143195897,
+          "value": 0.0004786724143195897,
+          "green": false,
+          "bytesPretty": "794 Bytes"
+        },
+        {
+          "name": 0.0003900517028523609,
+          "value": 0.0003900517028523609,
+          "green": false,
+          "bytesPretty": "647 Bytes"
+        },
+        {
+          "name": 0.00039788890862837436,
+          "value": 0.00039788890862837436,
+          "green": false,
+          "bytesPretty": "660 Bytes"
+        },
+        {
+          "name": 0.0002791250980226323,
+          "value": 0.0002791250980226323,
+          "green": false,
+          "bytesPretty": "463 Bytes"
+        },
+        {
+          "name": 0.0002676707203499973,
+          "value": 0.0002676707203499973,
+          "green": false,
+          "bytesPretty": "444 Bytes"
+        },
+        {
+          "name": 0.000289976613712497,
+          "value": 0.000289976613712497,
+          "green": false,
+          "bytesPretty": "481 Bytes"
+        },
+        {
+          "name": 0.00030866533517837525,
+          "value": 0.00030866533517837525,
+          "green": false,
+          "bytesPretty": "512 Bytes"
+        },
+        {
+          "name": 0.0002833451319020242,
+          "value": 0.0002833451319020242,
+          "green": false,
+          "bytesPretty": "470 Bytes"
+        },
+        {
+          "name": 0.0003092681971611455,
+          "value": 0.0003092681971611455,
+          "green": false,
+          "bytesPretty": "513 Bytes"
+        },
+        {
+          "name": 0.0002833451319020242,
+          "value": 0.0002833451319020242,
+          "green": false,
+          "bytesPretty": "470 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "6.0 KB",
+      "value": 0.003705792608088814
+    },
+    {
+      "name": "match.adsrvr.org",
+      "children": [
+        {
+          "name": 0.00015915556345134972,
+          "value": 0.00015915556345134972,
+          "green": false,
+          "bytesPretty": "264 Bytes"
+        },
+        {
+          "name": 0.0002694793062983081,
+          "value": 0.0002694793062983081,
+          "green": false,
+          "bytesPretty": "447 Bytes"
+        },
+        {
+          "name": 0.0002724936162121594,
+          "value": 0.0002724936162121594,
+          "green": false,
+          "bytesPretty": "452 Bytes"
+        },
+        {
+          "name": 0.0002736993401776999,
+          "value": 0.0002736993401776999,
+          "green": false,
+          "bytesPretty": "454 Bytes"
+        },
+        {
+          "name": 0.00015915556345134972,
+          "value": 0.00015915556345134972,
+          "green": false,
+          "bytesPretty": "264 Bytes"
+        },
+        {
+          "name": 0.00015915556345134972,
+          "value": 0.00015915556345134972,
+          "green": false,
+          "bytesPretty": "264 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "2.1 KB",
+      "value": 0.0012931389530422164
+    },
+    {
+      "name": "cm.g.doubleclick.net",
+      "children": [
+        {
+          "name": 0.0005245118199419974,
+          "value": 0.0005245118199419974,
+          "green": true,
+          "bytesPretty": "960 Bytes"
+        },
+        {
+          "name": 0.00006993490932559967,
+          "value": 0.00006993490932559967,
+          "green": true,
+          "bytesPretty": "128 Bytes"
+        },
+        {
+          "name": 0.00008851136961521209,
+          "value": 0.00008851136961521209,
+          "green": true,
+          "bytesPretty": "162 Bytes"
+        },
+        {
+          "name": 0.00008140860538683085,
+          "value": 0.00008140860538683085,
+          "green": true,
+          "bytesPretty": "149 Bytes"
+        },
+        {
+          "name": 0.00007594494059576838,
+          "value": 0.00007594494059576838,
+          "green": true,
+          "bytesPretty": "139 Bytes"
+        },
+        {
+          "name": 0.000052997548473306005,
+          "value": 0.000052997548473306005,
+          "green": true,
+          "bytesPretty": "97 Bytes"
+        },
+        {
+          "name": 0.00006774944340917468,
+          "value": 0.00006774944340917468,
+          "green": true,
+          "bytesPretty": "124 Bytes"
+        },
+        {
+          "name": 0.00006173941213900595,
+          "value": 0.00006173941213900595,
+          "green": true,
+          "bytesPretty": "113 Bytes"
+        },
+        {
+          "name": 0.00009506776736448706,
+          "value": 0.00009506776736448706,
+          "green": true,
+          "bytesPretty": "174 Bytes"
+        },
+        {
+          "name": 0.00008905773609431831,
+          "value": 0.00008905773609431831,
+          "green": true,
+          "bytesPretty": "163 Bytes"
+        },
+        {
+          "name": 0.0000311428893090561,
+          "value": 0.0000311428893090561,
+          "green": true,
+          "bytesPretty": "57 Bytes"
+        },
+        {
+          "name": 0.0000311428893090561,
+          "value": 0.0000311428893090561,
+          "green": true,
+          "bytesPretty": "57 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "2.3 KB",
+      "value": 0.0012692093309638127
+    },
+    {
+      "name": "token.rubiconproject.com",
+      "children": [
+        {
+          "name": 0.0003231340227648616,
+          "value": 0.0003231340227648616,
+          "green": false,
+          "bytesPretty": "536 Bytes"
+        },
+        {
+          "name": 0.00012901246431283651,
+          "value": 0.00012901246431283651,
+          "green": false,
+          "bytesPretty": "214 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "750 Bytes",
+      "value": 0.0004521464870776981
+    },
+    {
+      "name": "match.sharethrough.com",
+      "children": [
+        {
+          "name": 0.00021642745181452483,
+          "value": 0.00021642745181452483,
+          "green": false,
+          "bytesPretty": "359 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "359 Bytes",
+      "value": 0.00021642745181452483
+    },
+    {
+      "name": "s0.2mdn.net",
+      "children": [
+        {
+          "name": 0.0009086074547536895,
+          "value": 0.0009086074547536895,
+          "green": true,
+          "bytesPretty": "1.6 KB"
+        },
+        {
+          "name": 0.03546901909061937,
+          "value": 0.03546901909061937,
+          "green": true,
+          "bytesPretty": "63.4 KB"
+        },
+        {
+          "name": 0.0007742013008935527,
+          "value": 0.0007742013008935527,
+          "green": true,
+          "bytesPretty": "1.4 KB"
+        },
+        {
+          "name": 0.0007703767355398088,
+          "value": 0.0007703767355398088,
+          "green": true,
+          "bytesPretty": "1.4 KB"
+        },
+        {
+          "name": 0.0007692840025815962,
+          "value": 0.0007692840025815962,
+          "green": true,
+          "bytesPretty": "1.4 KB"
+        },
+        {
+          "name": 0.0008840209631939082,
+          "value": 0.0008840209631939082,
+          "green": true,
+          "bytesPretty": "1.6 KB"
+        },
+        {
+          "name": 0.0008763718324864208,
+          "value": 0.0008763718324864208,
+          "green": true,
+          "bytesPretty": "1.6 KB"
+        },
+        {
+          "name": 0.0008676299688207208,
+          "value": 0.0008676299688207208,
+          "green": true,
+          "bytesPretty": "1.6 KB"
+        },
+        {
+          "name": 0.0198609678819912,
+          "value": 0.0198609678819912,
+          "green": true,
+          "bytesPretty": "35.5 KB"
+        },
+        {
+          "name": 0.0054724066547281736,
+          "value": 0.0054724066547281736,
+          "green": true,
+          "bytesPretty": "9.8 KB"
+        },
+        {
+          "name": 0.0008654445029042959,
+          "value": 0.0008654445029042959,
+          "green": true,
+          "bytesPretty": "1.5 KB"
+        },
+        {
+          "name": 0.00557348445336283,
+          "value": 0.00557348445336283,
+          "green": true,
+          "bytesPretty": "10.0 KB"
+        },
+        {
+          "name": 0.005559825291385173,
+          "value": 0.005559825291385173,
+          "green": true,
+          "bytesPretty": "9.9 KB"
+        },
+        {
+          "name": 0.005598070944922611,
+          "value": 0.005598070944922611,
+          "green": true,
+          "bytesPretty": "10.0 KB"
+        },
+        {
+          "name": 0.3185229154552765,
+          "value": 0.3185229154552765,
+          "green": true,
+          "bytesPretty": "569.3 KB"
+        },
+        {
+          "name": 0.0035240637902352956,
+          "value": 0.0035240637902352956,
+          "green": true,
+          "bytesPretty": "6.3 KB"
+        },
+        {
+          "name": 0.008638600401148878,
+          "value": 0.008638600401148878,
+          "green": true,
+          "bytesPretty": "15.4 KB"
+        },
+        {
+          "name": 0.3185141735916108,
+          "value": 0.3185141735916108,
+          "green": true,
+          "bytesPretty": "569.3 KB"
+        },
+        {
+          "name": 0.06175744223281646,
+          "value": 0.06175744223281646,
+          "green": true,
+          "bytesPretty": "110.4 KB"
+        },
+        {
+          "name": 0.014630055211027986,
+          "value": 0.014630055211027986,
+          "green": true,
+          "bytesPretty": "26.1 KB"
+        },
+        {
+          "name": 0.0035240637902352956,
+          "value": 0.0035240637902352956,
+          "green": true,
+          "bytesPretty": "6.3 KB"
+        },
+        {
+          "name": 0.003525702889672615,
+          "value": 0.003525702889672615,
+          "green": true,
+          "bytesPretty": "6.3 KB"
+        },
+        {
+          "name": 0.1496295630674742,
+          "value": 0.1496295630674742,
+          "green": true,
+          "bytesPretty": "267.4 KB"
+        },
+        {
+          "name": 0.0035267956226308268,
+          "value": 0.0035267956226308268,
+          "green": true,
+          "bytesPretty": "6.3 KB"
+        },
+        {
+          "name": 0.006895144966320842,
+          "value": 0.006895144966320842,
+          "green": true,
+          "bytesPretty": "12.3 KB"
+        },
+        {
+          "name": 0.008635868568753346,
+          "value": 0.008635868568753346,
+          "green": true,
+          "bytesPretty": "15.4 KB"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "1.7 MB",
+      "value": 0.9855741006653863
+    },
+    {
+      "name": "pixel.adsafeprotected.com",
+      "children": [
+        {
+          "name": 0.008052427503862418,
+          "value": 0.008052427503862418,
+          "green": false,
+          "bytesPretty": "13.0 KB"
+        },
+        {
+          "name": 0.008053030365845188,
+          "value": 0.008053030365845188,
+          "green": false,
+          "bytesPretty": "13.0 KB"
+        },
+        {
+          "name": 0.0080548389517935,
+          "value": 0.0080548389517935,
+          "green": false,
+          "bytesPretty": "13.0 KB"
+        },
+        {
+          "name": 0.008051221779896877,
+          "value": 0.008051221779896877,
+          "green": false,
+          "bytesPretty": "13.0 KB"
+        },
+        {
+          "name": 0.008053633227827959,
+          "value": 0.008053633227827959,
+          "green": false,
+          "bytesPretty": "13.0 KB"
+        },
+        {
+          "name": 0.0001862843526760116,
+          "value": 0.0001862843526760116,
+          "green": false,
+          "bytesPretty": "309 Bytes"
+        },
+        {
+          "name": 0.0001862843526760116,
+          "value": 0.0001862843526760116,
+          "green": false,
+          "bytesPretty": "309 Bytes"
+        },
+        {
+          "name": 0.0001862843526760116,
+          "value": 0.0001862843526760116,
+          "green": false,
+          "bytesPretty": "309 Bytes"
+        },
+        {
+          "name": 0.0001862843526760116,
+          "value": 0.0001862843526760116,
+          "green": false,
+          "bytesPretty": "309 Bytes"
+        },
+        {
+          "name": 0.0001862843526760116,
+          "value": 0.0001862843526760116,
+          "green": false,
+          "bytesPretty": "309 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "66.7 KB",
+      "value": 0.04119657359260598
+    },
+    {
+      "name": "us-u.openx.net",
+      "children": [
+        {
+          "name": 0.00005955394622258097,
+          "value": 0.00005955394622258097,
+          "green": true,
+          "bytesPretty": "109 Bytes"
+        },
+        {
+          "name": 0.00005955394622258097,
+          "value": 0.00005955394622258097,
+          "green": true,
+          "bytesPretty": "109 Bytes"
+        },
+        {
+          "name": 0.000476977936259754,
+          "value": 0.000476977936259754,
+          "green": true,
+          "bytesPretty": "873 Bytes"
+        },
+        {
+          "name": 0.00012402519075711816,
+          "value": 0.00012402519075711816,
+          "green": true,
+          "bytesPretty": "227 Bytes"
+        },
+        {
+          "name": 0.00005955394622258097,
+          "value": 0.00005955394622258097,
+          "green": true,
+          "bytesPretty": "109 Bytes"
+        },
+        {
+          "name": 0.00005955394622258097,
+          "value": 0.00005955394622258097,
+          "green": true,
+          "bytesPretty": "109 Bytes"
+        },
+        {
+          "name": 0.00005955394622258097,
+          "value": 0.00005955394622258097,
+          "green": true,
+          "bytesPretty": "109 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "1.6 KB",
+      "value": 0.0008987728581297768
+    },
+    {
+      "name": "ntvcld-a.akamaihd.net",
+      "children": [
+        {
+          "name": 0.008863879732671193,
+          "value": 0.008863879732671193,
+          "green": false,
+          "bytesPretty": "14.4 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "14.4 KB",
+      "value": 0.008863879732671193
+    },
+    {
+      "name": "ws1.rqtrk.eu",
+      "children": [
+        {
+          "name": 0.0002770078049068674,
+          "value": 0.0002770078049068674,
+          "green": true,
+          "bytesPretty": "507 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "507 Bytes",
+      "value": 0.0002770078049068674
+    },
+    {
+      "name": "srv-2019-12-06-16.pixel.parsely.com",
+      "children": [
+        {
+          "name": 0.00013805539405439048,
+          "value": 0.00013805539405439048,
+          "green": false,
+          "bytesPretty": "229 Bytes"
+        },
+        {
+          "name": 0.00013805539405439048,
+          "value": 0.00013805539405439048,
+          "green": false,
+          "bytesPretty": "229 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "458 Bytes",
+      "value": 0.00027611078810878096
+    },
+    {
+      "name": "pixel.tapad.com",
+      "children": [
+        {
+          "name": 0.0002923060663218424,
+          "value": 0.0002923060663218424,
+          "green": true,
+          "bytesPretty": "535 Bytes"
+        },
+        {
+          "name": 0.00021417565980964894,
+          "value": 0.00021417565980964894,
+          "green": true,
+          "bytesPretty": "392 Bytes"
+        },
+        {
+          "name": 0.0000912432020107433,
+          "value": 0.0000912432020107433,
+          "green": true,
+          "bytesPretty": "167 Bytes"
+        },
+        {
+          "name": 0.0000852331707405746,
+          "value": 0.0000852331707405746,
+          "green": true,
+          "bytesPretty": "156 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "1.2 KB",
+      "value": 0.0006829580988828092
+    },
+    {
+      "name": "usermatch.targeting.unrulymedia.com",
+      "children": [
+        {
+          "name": 0.0003478513640584424,
+          "value": 0.0003478513640584424,
+          "green": false,
+          "bytesPretty": "577 Bytes"
+        },
+        {
+          "name": 0.0000488318206043914,
+          "value": 0.0000488318206043914,
+          "green": false,
+          "bytesPretty": "81 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "658 Bytes",
+      "value": 0.0003966831846628338
+    },
+    {
+      "name": "rules.quantcount.com",
+      "children": [
+        {
+          "name": 0.0016138615278759971,
+          "value": 0.0016138615278759971,
+          "green": false,
+          "bytesPretty": "2.6 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "2.6 KB",
+      "value": 0.0016138615278759971
+    },
+    {
+      "name": "usermatch.krxd.net",
+      "children": [
+        {
+          "name": 0.000107309432933107,
+          "value": 0.000107309432933107,
+          "green": false,
+          "bytesPretty": "178 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "178 Bytes",
+      "value": 0.000107309432933107
+    },
+    {
+      "name": "ps.eyeota.net",
+      "children": [
+        {
+          "name": 0.0002773165120743215,
+          "value": 0.0002773165120743215,
+          "green": false,
+          "bytesPretty": "460 Bytes"
+        },
+        {
+          "name": 0.00010308939905371516,
+          "value": 0.00010308939905371516,
+          "green": false,
+          "bytesPretty": "171 Bytes"
+        },
+        {
+          "name": 0.00015433266758918762,
+          "value": 0.00015433266758918762,
+          "green": false,
+          "bytesPretty": "256 Bytes"
+        },
+        {
+          "name": 0.00015553839155472814,
+          "value": 0.00015553839155472814,
+          "green": false,
+          "bytesPretty": "258 Bytes"
+        },
+        {
+          "name": 0.00015915556345134972,
+          "value": 0.00015915556345134972,
+          "green": false,
+          "bytesPretty": "264 Bytes"
+        },
+        {
+          "name": 0.00018869580060709267,
+          "value": 0.00018869580060709267,
+          "green": false,
+          "bytesPretty": "313 Bytes"
+        },
+        {
+          "name": 0.00009464933129493146,
+          "value": 0.00009464933129493146,
+          "green": false,
+          "bytesPretty": "157 Bytes"
+        },
+        {
+          "name": 0.00014287828991655258,
+          "value": 0.00014287828991655258,
+          "green": false,
+          "bytesPretty": "237 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "2.1 KB",
+      "value": 0.0012756559555418786
+    },
+    {
+      "name": "aa.agkn.com",
+      "children": [
+        {
+          "name": 0.0002224560716422275,
+          "value": 0.0002224560716422275,
+          "green": false,
+          "bytesPretty": "369 Bytes"
+        },
+        {
+          "name": 0.0002513934468152001,
+          "value": 0.0002513934468152001,
+          "green": false,
+          "bytesPretty": "417 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "786 Bytes",
+      "value": 0.00047384951845742763
+    },
+    {
+      "name": "u.openx.net",
+      "children": [
+        {
+          "name": 0.00013440615386013684,
+          "value": 0.00013440615386013684,
+          "green": true,
+          "bytesPretty": "246 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "246 Bytes",
+      "value": 0.00013440615386013684
+    },
+    {
+      "name": "ssum-sec.casalemedia.com",
+      "children": [
+        {
+          "name": 0.0004322520416462794,
+          "value": 0.0004322520416462794,
+          "green": false,
+          "bytesPretty": "717 Bytes"
+        },
+        {
+          "name": 0.0005124326853547244,
+          "value": 0.0005124326853547244,
+          "green": false,
+          "bytesPretty": "850 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.5 KB",
+      "value": 0.0009446847270010038
+    },
+    {
+      "name": "loadm.exelator.com",
+      "children": [
+        {
+          "name": 0.000513638409320265,
+          "value": 0.000513638409320265,
+          "green": false,
+          "bytesPretty": "852 Bytes"
+        },
+        {
+          "name": 0.0005305185448378324,
+          "value": 0.0005305185448378324,
+          "green": false,
+          "bytesPretty": "880 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.7 KB",
+      "value": 0.0010441569541580974
+    },
+    {
+      "name": "sync.teads.tv",
+      "children": [
+        {
+          "name": 0.00019713586836587636,
+          "value": 0.00019713586836587636,
+          "green": false,
+          "bytesPretty": "327 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "327 Bytes",
+      "value": 0.00019713586836587636
+    },
+    {
+      "name": "loadus.exelator.com",
+      "children": [
+        {
+          "name": 0.0005492072663037105,
+          "value": 0.0005492072663037105,
+          "green": false,
+          "bytesPretty": "911 Bytes"
+        },
+        {
+          "name": 0.0004973611357854679,
+          "value": 0.0004973611357854679,
+          "green": false,
+          "bytesPretty": "825 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.7 KB",
+      "value": 0.0010465684020891785
+    },
+    {
+      "name": "ml314.com",
+      "children": [
+        {
+          "name": 0.00743871400540229,
+          "value": 0.00743871400540229,
+          "green": false,
+          "bytesPretty": "12.0 KB"
+        },
+        {
+          "name": 0.00034363133017905055,
+          "value": 0.00034363133017905055,
+          "green": false,
+          "bytesPretty": "570 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "12.6 KB",
+      "value": 0.00778234533558134
+    },
+    {
+      "name": "kr.ixiaa.com",
+      "children": [
+        {
+          "name": 0.0021377485909033563,
+          "value": 0.0021377485909033563,
+          "green": false,
+          "bytesPretty": "3.5 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "3.5 KB",
+      "value": 0.0021377485909033563
+    },
+    {
+      "name": "global.ib-ibi.com",
+      "children": [
+        {
+          "name": 0.00004340606275945902,
+          "value": 0.00004340606275945902,
+          "green": false,
+          "bytesPretty": "72 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "72 Bytes",
+      "value": 0.00004340606275945902
+    },
+    {
+      "name": "video.unrulymedia.com",
+      "children": [
+        {
+          "name": 0.0005293128208722919,
+          "value": 0.0005293128208722919,
+          "green": false,
+          "bytesPretty": "878 Bytes"
+        },
+        {
+          "name": 0.0010188367508817465,
+          "value": 0.0010188367508817465,
+          "green": false,
+          "bytesPretty": "1.7 KB"
+        },
+        {
+          "name": 0.002701424544793554,
+          "value": 0.002701424544793554,
+          "green": false,
+          "bytesPretty": "4.4 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "6.9 KB",
+      "value": 0.004249574116547593
+    },
+    {
+      "name": "p.crm4d.com",
+      "children": [
+        {
+          "name": 0.0002923060663218424,
+          "value": 0.0002923060663218424,
+          "green": true,
+          "bytesPretty": "535 Bytes"
+        },
+        {
+          "name": 0.0002655341088456363,
+          "value": 0.0002655341088456363,
+          "green": true,
+          "bytesPretty": "486 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "1021 Bytes",
+      "value": 0.0005578401751674786
+    },
+    {
+      "name": "pagead2.googlesyndication.com",
+      "children": [
+        {
+          "name": 0.00039447659791471063,
+          "value": 0.00039447659791471063,
+          "green": true,
+          "bytesPretty": "722 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "722 Bytes",
+      "value": 0.00039447659791471063
+    },
+    {
+      "name": "pixel.rubiconproject.com",
+      "children": [
+        {
+          "name": 0.00014408401388209312,
+          "value": 0.00014408401388209312,
+          "green": false,
+          "bytesPretty": "239 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "239 Bytes",
+      "value": 0.00014408401388209312
+    },
+    {
+      "name": "load77.exelator.com",
+      "children": [
+        {
+          "name": 0.0001615670113824308,
+          "value": 0.0001615670113824308,
+          "green": false,
+          "bytesPretty": "268 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "268 Bytes",
+      "value": 0.0001615670113824308
+    },
+    {
+      "name": "c1.adform.net",
+      "children": [
+        {
+          "name": 0.00020979597000405191,
+          "value": 0.00020979597000405191,
+          "green": false,
+          "bytesPretty": "348 Bytes"
+        },
+        {
+          "name": 0.0001223809825023636,
+          "value": 0.0001223809825023636,
+          "green": false,
+          "bytesPretty": "203 Bytes"
+        },
+        {
+          "name": 0.00011635236267466099,
+          "value": 0.00011635236267466099,
+          "green": false,
+          "bytesPretty": "193 Bytes"
+        },
+        {
+          "name": 0.00011816094862297175,
+          "value": 0.00011816094862297175,
+          "green": false,
+          "bytesPretty": "196 Bytes"
+        },
+        {
+          "name": 0.00008500353957060724,
+          "value": 0.00008500353957060724,
+          "green": false,
+          "bytesPretty": "141 Bytes"
+        },
+        {
+          "name": 0.00011273519077803939,
+          "value": 0.00011273519077803939,
+          "green": false,
+          "bytesPretty": "187 Bytes"
+        },
+        {
+          "name": 0.00008500353957060724,
+          "value": 0.00008500353957060724,
+          "green": false,
+          "bytesPretty": "141 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.4 KB",
+      "value": 0.0008494325337233021
+    },
+    {
+      "name": "ssum.casalemedia.com",
+      "children": [
+        {
+          "name": 0.0005190641671651973,
+          "value": 0.0005190641671651973,
+          "green": false,
+          "bytesPretty": "861 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "861 Bytes",
+      "value": 0.0005190641671651973
+    },
+    {
+      "name": "dt.adsafeprotected.com",
+      "children": [
+        {
+          "name": 0.0001296153262956068,
+          "value": 0.0001296153262956068,
+          "green": false,
+          "bytesPretty": "215 Bytes"
+        },
+        {
+          "name": 0.0001296153262956068,
+          "value": 0.0001296153262956068,
+          "green": false,
+          "bytesPretty": "215 Bytes"
+        },
+        {
+          "name": 0.0001296153262956068,
+          "value": 0.0001296153262956068,
+          "green": false,
+          "bytesPretty": "215 Bytes"
+        },
+        {
+          "name": 0.0001296153262956068,
+          "value": 0.0001296153262956068,
+          "green": false,
+          "bytesPretty": "215 Bytes"
+        },
+        {
+          "name": 0.0001296153262956068,
+          "value": 0.0001296153262956068,
+          "green": false,
+          "bytesPretty": "215 Bytes"
+        },
+        {
+          "name": 0.0001296153262956068,
+          "value": 0.0001296153262956068,
+          "green": false,
+          "bytesPretty": "215 Bytes"
+        },
+        {
+          "name": 0.0001296153262956068,
+          "value": 0.0001296153262956068,
+          "green": false,
+          "bytesPretty": "215 Bytes"
+        },
+        {
+          "name": 0.0001296153262956068,
+          "value": 0.0001296153262956068,
+          "green": false,
+          "bytesPretty": "215 Bytes"
+        },
+        {
+          "name": 0.0001296153262956068,
+          "value": 0.0001296153262956068,
+          "green": false,
+          "bytesPretty": "215 Bytes"
+        },
+        {
+          "name": 0.0001296153262956068,
+          "value": 0.0001296153262956068,
+          "green": false,
+          "bytesPretty": "215 Bytes"
+        },
+        {
+          "name": 0.0001296153262956068,
+          "value": 0.0001296153262956068,
+          "green": false,
+          "bytesPretty": "215 Bytes"
+        },
+        {
+          "name": 0.0001296153262956068,
+          "value": 0.0001296153262956068,
+          "green": false,
+          "bytesPretty": "215 Bytes"
+        },
+        {
+          "name": 0.0001296153262956068,
+          "value": 0.0001296153262956068,
+          "green": false,
+          "bytesPretty": "215 Bytes"
+        },
+        {
+          "name": 0.0001296153262956068,
+          "value": 0.0001296153262956068,
+          "green": false,
+          "bytesPretty": "215 Bytes"
+        },
+        {
+          "name": 0.0001296153262956068,
+          "value": 0.0001296153262956068,
+          "green": false,
+          "bytesPretty": "215 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "3.1 KB",
+      "value": 0.0019442298944341025
+    },
+    {
+      "name": "cookie-matching.mediarithmics.com",
+      "children": [
+        {
+          "name": 0.00010708782990482447,
+          "value": 0.00010708782990482447,
+          "green": true,
+          "bytesPretty": "196 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "196 Bytes",
+      "value": 0.00010708782990482447
+    },
+    {
+      "name": "ad2.360yield.com",
+      "children": [
+        {
+          "name": 0.0002501877228496596,
+          "value": 0.0002501877228496596,
+          "green": false,
+          "bytesPretty": "415 Bytes"
+        },
+        {
+          "name": 0.0001193666725885123,
+          "value": 0.0001193666725885123,
+          "green": false,
+          "bytesPretty": "198 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "613 Bytes",
+      "value": 0.0003695543954381719
+    },
+    {
+      "name": "match.prod.bidr.io",
+      "children": [
+        {
+          "name": 0.00028816802776418624,
+          "value": 0.00028816802776418624,
+          "green": false,
+          "bytesPretty": "478 Bytes"
+        },
+        {
+          "name": 0.0003864345309557393,
+          "value": 0.0003864345309557393,
+          "green": false,
+          "bytesPretty": "641 Bytes"
+        },
+        {
+          "name": 0.000012057239655405282,
+          "value": 0.000012057239655405282,
+          "green": false,
+          "bytesPretty": "20 Bytes"
+        },
+        {
+          "name": 0.00024536482698749756,
+          "value": 0.00024536482698749756,
+          "green": false,
+          "bytesPretty": "407 Bytes"
+        },
+        {
+          "name": 0.00029238806164357813,
+          "value": 0.00029238806164357813,
+          "green": false,
+          "bytesPretty": "485 Bytes"
+        },
+        {
+          "name": 0.00029299092362634834,
+          "value": 0.00029299092362634834,
+          "green": false,
+          "bytesPretty": "486 Bytes"
+        },
+        {
+          "name": 0.0002803308219881728,
+          "value": 0.0002803308219881728,
+          "green": false,
+          "bytesPretty": "465 Bytes"
+        },
+        {
+          "name": 0.00028093368397094306,
+          "value": 0.00028093368397094306,
+          "green": false,
+          "bytesPretty": "466 Bytes"
+        },
+        {
+          "name": 0.00019412155845202505,
+          "value": 0.00019412155845202505,
+          "green": false,
+          "bytesPretty": "322 Bytes"
+        },
+        {
+          "name": 0.00019412155845202505,
+          "value": 0.00019412155845202505,
+          "green": false,
+          "bytesPretty": "322 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "4.0 KB",
+      "value": 0.00246691123349592
+    },
+    {
+      "name": "r.dlx.addthis.com",
+      "children": [
+        {
+          "name": 0.00009947222715709359,
+          "value": 0.00009947222715709359,
+          "green": false,
+          "bytesPretty": "165 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "165 Bytes",
+      "value": 0.00009947222715709359
+    },
+    {
+      "name": "audex.userreport.com",
+      "children": [
+        {
+          "name": 0.0002604363765567541,
+          "value": 0.0002604363765567541,
+          "green": false,
+          "bytesPretty": "432 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "432 Bytes",
+      "value": 0.0002604363765567541
+    },
+    {
+      "name": "686eb719.akstat.io",
+      "children": [
+        {
+          "name": 0.0001223809825023636,
+          "value": 0.0001223809825023636,
+          "green": false,
+          "bytesPretty": "203 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "203 Bytes",
+      "value": 0.0001223809825023636
+    },
+    {
+      "name": "d.turn.com",
+      "children": [
+        {
+          "name": 0.0003291626425925642,
+          "value": 0.0003291626425925642,
+          "green": false,
+          "bytesPretty": "546 Bytes"
+        },
+        {
+          "name": 0.00030987105914391576,
+          "value": 0.00030987105914391576,
+          "green": false,
+          "bytesPretty": "514 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.0 KB",
+      "value": 0.0006390337017364799
+    },
+    {
+      "name": "rtb.openx.net",
+      "children": [
+        {
+          "name": 0.0001857646028961241,
+          "value": 0.0001857646028961241,
+          "green": true,
+          "bytesPretty": "340 Bytes"
+        },
+        {
+          "name": 0.00008905773609431831,
+          "value": 0.00008905773609431831,
+          "green": true,
+          "bytesPretty": "163 Bytes"
+        },
+        {
+          "name": 0.00008086223890772462,
+          "value": 0.00008086223890772462,
+          "green": true,
+          "bytesPretty": "148 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "651 Bytes",
+      "value": 0.00035568457789816703
+    },
+    {
+      "name": "ads.pubmatic.com",
+      "children": [
+        {
+          "name": 0.0024916285747895017,
+          "value": 0.0024916285747895017,
+          "green": false,
+          "bytesPretty": "4.0 KB"
+        },
+        {
+          "name": 0.0024916285747895017,
+          "value": 0.0024916285747895017,
+          "green": false,
+          "bytesPretty": "4.0 KB"
+        },
+        {
+          "name": 0.009188219479401596,
+          "value": 0.009188219479401596,
+          "green": false,
+          "bytesPretty": "14.9 KB"
+        },
+        {
+          "name": 0.0024916285747895017,
+          "value": 0.0024916285747895017,
+          "green": false,
+          "bytesPretty": "4.0 KB"
+        },
+        {
+          "name": 0.0001748299750033766,
+          "value": 0.0001748299750033766,
+          "green": false,
+          "bytesPretty": "290 Bytes"
+        },
+        {
+          "name": 0.0001748299750033766,
+          "value": 0.0001748299750033766,
+          "green": false,
+          "bytesPretty": "290 Bytes"
+        },
+        {
+          "name": 0.0024916285747895017,
+          "value": 0.0024916285747895017,
+          "green": false,
+          "bytesPretty": "4.0 KB"
+        },
+        {
+          "name": 0.0053781317482935265,
+          "value": 0.0053781317482935265,
+          "green": false,
+          "bytesPretty": "8.7 KB"
+        },
+        {
+          "name": 0.0053781317482935265,
+          "value": 0.0053781317482935265,
+          "green": false,
+          "bytesPretty": "8.7 KB"
+        },
+        {
+          "name": 0.0001748299750033766,
+          "value": 0.0001748299750033766,
+          "green": false,
+          "bytesPretty": "290 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "49.3 KB",
+      "value": 0.03043548720015679
+    },
+    {
+      "name": "rtb.gumgum.com",
+      "children": [
+        {
+          "name": 0.0007252429652726277,
+          "value": 0.0007252429652726277,
+          "green": false,
+          "bytesPretty": "1.2 KB"
+        },
+        {
+          "name": 0.00014287828991655258,
+          "value": 0.00014287828991655258,
+          "green": false,
+          "bytesPretty": "237 Bytes"
+        },
+        {
+          "name": 0.00014287828991655258,
+          "value": 0.00014287828991655258,
+          "green": false,
+          "bytesPretty": "237 Bytes"
+        },
+        {
+          "name": 0.00014287828991655258,
+          "value": 0.00014287828991655258,
+          "green": false,
+          "bytesPretty": "237 Bytes"
+        },
+        {
+          "name": 0.00014287828991655258,
+          "value": 0.00014287828991655258,
+          "green": false,
+          "bytesPretty": "237 Bytes"
+        },
+        {
+          "name": 0.00014287828991655258,
+          "value": 0.00014287828991655258,
+          "green": false,
+          "bytesPretty": "237 Bytes"
+        },
+        {
+          "name": 0.00014287828991655258,
+          "value": 0.00014287828991655258,
+          "green": false,
+          "bytesPretty": "237 Bytes"
+        },
+        {
+          "name": 0.00014287828991655258,
+          "value": 0.00014287828991655258,
+          "green": false,
+          "bytesPretty": "237 Bytes"
+        },
+        {
+          "name": 0.00014287828991655258,
+          "value": 0.00014287828991655258,
+          "green": false,
+          "bytesPretty": "237 Bytes"
+        },
+        {
+          "name": 0.00014287828991655258,
+          "value": 0.00014287828991655258,
+          "green": false,
+          "bytesPretty": "237 Bytes"
+        },
+        {
+          "name": 0.00014287828991655258,
+          "value": 0.00014287828991655258,
+          "green": false,
+          "bytesPretty": "237 Bytes"
+        },
+        {
+          "name": 0.00014287828991655258,
+          "value": 0.00014287828991655258,
+          "green": false,
+          "bytesPretty": "237 Bytes"
+        },
+        {
+          "name": 0.00014287828991655258,
+          "value": 0.00014287828991655258,
+          "green": false,
+          "bytesPretty": "237 Bytes"
+        },
+        {
+          "name": 0.00014287828991655258,
+          "value": 0.00014287828991655258,
+          "green": false,
+          "bytesPretty": "237 Bytes"
+        },
+        {
+          "name": 0.00014287828991655258,
+          "value": 0.00014287828991655258,
+          "green": false,
+          "bytesPretty": "237 Bytes"
+        },
+        {
+          "name": 0.00014287828991655258,
+          "value": 0.00014287828991655258,
+          "green": false,
+          "bytesPretty": "237 Bytes"
+        },
+        {
+          "name": 0.00014287828991655258,
+          "value": 0.00014287828991655258,
+          "green": false,
+          "bytesPretty": "237 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "4.9 KB",
+      "value": 0.003011295603937468
+    },
+    {
+      "name": "data.adsrvr.org",
+      "children": [
+        {
+          "name": 0.00015915556345134972,
+          "value": 0.00015915556345134972,
+          "green": false,
+          "bytesPretty": "264 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "264 Bytes",
+      "value": 0.00015915556345134972
+    },
+    {
+      "name": "sync.1rx.io",
+      "children": [
+        {
+          "name": 0.0001832700427621603,
+          "value": 0.0001832700427621603,
+          "green": false,
+          "bytesPretty": "304 Bytes"
+        },
+        {
+          "name": 0.00018387290474493055,
+          "value": 0.00018387290474493055,
+          "green": false,
+          "bytesPretty": "305 Bytes"
+        },
+        {
+          "name": 0.00022305893362499775,
+          "value": 0.00022305893362499775,
+          "green": false,
+          "bytesPretty": "370 Bytes"
+        },
+        {
+          "name": 0.00022305893362499775,
+          "value": 0.00022305893362499775,
+          "green": false,
+          "bytesPretty": "370 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.3 KB",
+      "value": 0.0008132608147570863
+    },
+    {
+      "name": "p.rfihub.com",
+      "children": [
+        {
+          "name": 0.0003406170202651992,
+          "value": 0.0003406170202651992,
+          "green": false,
+          "bytesPretty": "565 Bytes"
+        },
+        {
+          "name": 0.00041296045819763086,
+          "value": 0.00041296045819763086,
+          "green": false,
+          "bytesPretty": "685 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.2 KB",
+      "value": 0.0007535774784628301
+    },
+    {
+      "name": "pixel-sync.sitescout.com",
+      "children": [
+        {
+          "name": 0.00019171011052094398,
+          "value": 0.00019171011052094398,
+          "green": false,
+          "bytesPretty": "318 Bytes"
+        },
+        {
+          "name": 0.00019773873034864661,
+          "value": 0.00019773873034864661,
+          "green": false,
+          "bytesPretty": "328 Bytes"
+        },
+        {
+          "name": 0.0002363218972459435,
+          "value": 0.0002363218972459435,
+          "green": false,
+          "bytesPretty": "392 Bytes"
+        },
+        {
+          "name": 0.0002363218972459435,
+          "value": 0.0002363218972459435,
+          "green": false,
+          "bytesPretty": "392 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.4 KB",
+      "value": 0.0008620926353614776
+    },
+    {
+      "name": "pixel.quantserve.com",
+      "children": [
+        {
+          "name": 0.00040090321854222564,
+          "value": 0.00040090321854222564,
+          "green": false,
+          "bytesPretty": "665 Bytes"
+        },
+        {
+          "name": 0.00040632897638715804,
+          "value": 0.00040632897638715804,
+          "green": false,
+          "bytesPretty": "674 Bytes"
+        },
+        {
+          "name": 0.0001326296362094581,
+          "value": 0.0001326296362094581,
+          "green": false,
+          "bytesPretty": "220 Bytes"
+        },
+        {
+          "name": 0.0001326296362094581,
+          "value": 0.0001326296362094581,
+          "green": false,
+          "bytesPretty": "220 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.7 KB",
+      "value": 0.0010724914673482999
+    },
+    {
+      "name": "um.simpli.fi",
+      "children": [
+        {
+          "name": 0.0002869623037986457,
+          "value": 0.0002869623037986457,
+          "green": false,
+          "bytesPretty": "476 Bytes"
+        },
+        {
+          "name": 0.00024657055095303807,
+          "value": 0.00024657055095303807,
+          "green": false,
+          "bytesPretty": "409 Bytes"
+        },
+        {
+          "name": 0.00024657055095303807,
+          "value": 0.00024657055095303807,
+          "green": false,
+          "bytesPretty": "409 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.3 KB",
+      "value": 0.0007801034057047219
+    },
+    {
+      "name": "trc.taboola.com",
+      "children": [
+        {
+          "name": 0.0002622449625050649,
+          "value": 0.0002622449625050649,
+          "green": false,
+          "bytesPretty": "435 Bytes"
+        },
+        {
+          "name": 0.00024657055095303807,
+          "value": 0.00024657055095303807,
+          "green": false,
+          "bytesPretty": "409 Bytes"
+        },
+        {
+          "name": 0.00011635236267466099,
+          "value": 0.00011635236267466099,
+          "green": false,
+          "bytesPretty": "193 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.0 KB",
+      "value": 0.000625167876132764
+    },
+    {
+      "name": "contextual.media.net",
+      "children": [
+        {
+          "name": 0.000027128789224661886,
+          "value": 0.000027128789224661886,
+          "green": false,
+          "bytesPretty": "45 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "45 Bytes",
+      "value": 0.000027128789224661886
+    },
+    {
+      "name": "acuityplatform.com",
+      "children": [
+        {
+          "name": 0.00026465641043614595,
+          "value": 0.00026465641043614595,
+          "green": false,
+          "bytesPretty": "439 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "439 Bytes",
+      "value": 0.00026465641043614595
+    },
+    {
+      "name": "bh.contextweb.com",
+      "children": [
+        {
+          "name": 0.0004117547342320904,
+          "value": 0.0004117547342320904,
+          "green": false,
+          "bytesPretty": "683 Bytes"
+        },
+        {
+          "name": 0.0004147690441459418,
+          "value": 0.0004147690441459418,
+          "green": false,
+          "bytesPretty": "688 Bytes"
+        },
+        {
+          "name": 0.0004147690441459418,
+          "value": 0.0004147690441459418,
+          "green": false,
+          "bytesPretty": "688 Bytes"
+        },
+        {
+          "name": 0.00044792645319830627,
+          "value": 0.00044792645319830627,
+          "green": false,
+          "bytesPretty": "743 Bytes"
+        },
+        {
+          "name": 0.0004485293151810765,
+          "value": 0.0004485293151810765,
+          "green": false,
+          "bytesPretty": "744 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "3.5 KB",
+      "value": 0.0021377485909033567
+    },
+    {
+      "name": "pixel-us-east.rubiconproject.com",
+      "children": [
+        {
+          "name": 0.00014408401388209312,
+          "value": 0.00014408401388209312,
+          "green": false,
+          "bytesPretty": "239 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "239 Bytes",
+      "value": 0.00014408401388209312
+    },
+    {
+      "name": "px.adhigh.net",
+      "children": [
+        {
+          "name": 0.00023220575362015514,
+          "value": 0.00023220575362015514,
+          "green": true,
+          "bytesPretty": "425 Bytes"
+        },
+        {
+          "name": 0.0003081506942159235,
+          "value": 0.0003081506942159235,
+          "green": true,
+          "bytesPretty": "564 Bytes"
+        },
+        {
+          "name": 0.00027864690434418625,
+          "value": 0.00027864690434418625,
+          "green": true,
+          "bytesPretty": "510 Bytes"
+        },
+        {
+          "name": 0.0003081506942159235,
+          "value": 0.0003081506942159235,
+          "green": true,
+          "bytesPretty": "564 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "2.0 KB",
+      "value": 0.0011271540463961883
+    },
+    {
+      "name": "pixel-eu.rubiconproject.com",
+      "children": [
+        {
+          "name": 0.00014408401388209312,
+          "value": 0.00014408401388209312,
+          "green": false,
+          "bytesPretty": "239 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "239 Bytes",
+      "value": 0.00014408401388209312
+    },
+    {
+      "name": "aorta.clickagy.com",
+      "children": [
+        {
+          "name": 0.0005329299927689135,
+          "value": 0.0005329299927689135,
+          "green": false,
+          "bytesPretty": "884 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "884 Bytes",
+      "value": 0.0005329299927689135
+    },
+    {
+      "name": "ce.lijit.com",
+      "children": [
+        {
+          "name": 0.0003490570880239829,
+          "value": 0.0003490570880239829,
+          "green": false,
+          "bytesPretty": "579 Bytes"
+        },
+        {
+          "name": 0.00035387998388614506,
+          "value": 0.00035387998388614506,
+          "green": false,
+          "bytesPretty": "587 Bytes"
+        },
+        {
+          "name": 0.0003544828458689153,
+          "value": 0.0003544828458689153,
+          "green": false,
+          "bytesPretty": "588 Bytes"
+        },
+        {
+          "name": 0.00034363133017905055,
+          "value": 0.00034363133017905055,
+          "green": false,
+          "bytesPretty": "570 Bytes"
+        },
+        {
+          "name": 0.000725845827255398,
+          "value": 0.000725845827255398,
+          "green": false,
+          "bytesPretty": "1.2 KB"
+        },
+        {
+          "name": 0.0006752054207026959,
+          "value": 0.0006752054207026959,
+          "green": false,
+          "bytesPretty": "1.1 KB"
+        },
+        {
+          "name": 0.0006776168686337769,
+          "value": 0.0006776168686337769,
+          "green": false,
+          "bytesPretty": "1.1 KB"
+        },
+        {
+          "name": 0.0006589281471678988,
+          "value": 0.0006589281471678988,
+          "green": false,
+          "bytesPretty": "1.1 KB"
+        },
+        {
+          "name": 0.0007270515512209385,
+          "value": 0.0007270515512209385,
+          "green": false,
+          "bytesPretty": "1.2 KB"
+        },
+        {
+          "name": 0.0006788225925993174,
+          "value": 0.0006788225925993174,
+          "green": false,
+          "bytesPretty": "1.1 KB"
+        },
+        {
+          "name": 0.0008084379188949243,
+          "value": 0.0008084379188949243,
+          "green": false,
+          "bytesPretty": "1.3 KB"
+        },
+        {
+          "name": 0.0008054236089810728,
+          "value": 0.0008054236089810728,
+          "green": false,
+          "bytesPretty": "1.3 KB"
+        },
+        {
+          "name": 0.0008536525676026939,
+          "value": 0.0008536525676026939,
+          "green": false,
+          "bytesPretty": "1.4 KB"
+        },
+        {
+          "name": 0.0008536525676026939,
+          "value": 0.0008536525676026939,
+          "green": false,
+          "bytesPretty": "1.4 KB"
+        },
+        {
+          "name": 0.0008843985287239776,
+          "value": 0.0008843985287239776,
+          "green": false,
+          "bytesPretty": "1.4 KB"
+        },
+        {
+          "name": 0.0008180837106192485,
+          "value": 0.0008180837106192485,
+          "green": false,
+          "bytesPretty": "1.3 KB"
+        },
+        {
+          "name": 0.0008313466742401942,
+          "value": 0.0008313466742401942,
+          "green": false,
+          "bytesPretty": "1.3 KB"
+        },
+        {
+          "name": 0.0008771641849307344,
+          "value": 0.0008771641849307344,
+          "green": false,
+          "bytesPretty": "1.4 KB"
+        },
+        {
+          "name": 0.0009181587997591122,
+          "value": 0.0009181587997591122,
+          "green": false,
+          "bytesPretty": "1.5 KB"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "21.4 KB",
+      "value": 0.013194840216892767
+    },
+    {
+      "name": "ads.programattik.com",
+      "children": [
+        {
+          "name": 0.00036352577561046926,
+          "value": 0.00036352577561046926,
+          "green": false,
+          "bytesPretty": "603 Bytes"
+        },
+        {
+          "name": 0.00033338267647195605,
+          "value": 0.00033338267647195605,
+          "green": false,
+          "bytesPretty": "553 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.1 KB",
+      "value": 0.0006969084520824253
+    },
+    {
+      "name": "pr-bh.ybp.yahoo.com",
+      "children": [
+        {
+          "name": 0.00023029327741824093,
+          "value": 0.00023029327741824093,
+          "green": false,
+          "bytesPretty": "382 Bytes"
+        },
+        {
+          "name": 0.00004340606275945902,
+          "value": 0.00004340606275945902,
+          "green": false,
+          "bytesPretty": "72 Bytes"
+        },
+        {
+          "name": 0.00009826650319155305,
+          "value": 0.00009826650319155305,
+          "green": false,
+          "bytesPretty": "163 Bytes"
+        },
+        {
+          "name": 0.00009826650319155305,
+          "value": 0.00009826650319155305,
+          "green": false,
+          "bytesPretty": "163 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "780 Bytes",
+      "value": 0.00047023234656080605
+    },
+    {
+      "name": "ssc-cms.33across.com",
+      "children": [
+        {
+          "name": 0.00013926111801993102,
+          "value": 0.00013926111801993102,
+          "green": false,
+          "bytesPretty": "231 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "231 Bytes",
+      "value": 0.00013926111801993102
+    },
+    {
+      "name": "sync-tm.everesttech.net",
+      "children": [
+        {
+          "name": 0.00027189075422938907,
+          "value": 0.00027189075422938907,
+          "green": false,
+          "bytesPretty": "451 Bytes"
+        },
+        {
+          "name": 0.0001748299750033766,
+          "value": 0.0001748299750033766,
+          "green": false,
+          "bytesPretty": "290 Bytes"
+        },
+        {
+          "name": 0.00008620926353614777,
+          "value": 0.00008620926353614777,
+          "green": false,
+          "bytesPretty": "143 Bytes"
+        },
+        {
+          "name": 0.00009886936517432331,
+          "value": 0.00009886936517432331,
+          "green": false,
+          "bytesPretty": "164 Bytes"
+        },
+        {
+          "name": 0.00017362425103783607,
+          "value": 0.00017362425103783607,
+          "green": false,
+          "bytesPretty": "288 Bytes"
+        },
+        {
+          "name": 0.0001850786287104711,
+          "value": 0.0001850786287104711,
+          "green": false,
+          "bytesPretty": "307 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.6 KB",
+      "value": 0.0009905022376915438
+    },
+    {
+      "name": "sync.technoratimedia.com",
+      "children": [
+        {
+          "name": 0.00030323957733344284,
+          "value": 0.00030323957733344284,
+          "green": false,
+          "bytesPretty": "503 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "503 Bytes",
+      "value": 0.00030323957733344284
+    },
+    {
+      "name": "cs.emxdgt.com",
+      "children": [
+        {
+          "name": 0.00015433266758918762,
+          "value": 0.00015433266758918762,
+          "green": false,
+          "bytesPretty": "256 Bytes"
+        },
+        {
+          "name": 0.00011695522465743126,
+          "value": 0.00011695522465743126,
+          "green": false,
+          "bytesPretty": "194 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "450 Bytes",
+      "value": 0.00027128789224661887
+    },
+    {
+      "name": "sync.srv.stackadapt.com",
+      "children": [
+        {
+          "name": 0.00036232005164492874,
+          "value": 0.00036232005164492874,
+          "green": false,
+          "bytesPretty": "601 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "601 Bytes",
+      "value": 0.00036232005164492874
+    },
+    {
+      "name": "b1sync.zemanta.com",
+      "children": [
+        {
+          "name": 0.0002839479938847944,
+          "value": 0.0002839479938847944,
+          "green": false,
+          "bytesPretty": "471 Bytes"
+        },
+        {
+          "name": 0.00028093368397094306,
+          "value": 0.00028093368397094306,
+          "green": false,
+          "bytesPretty": "466 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "937 Bytes",
+      "value": 0.0005648816778557374
+    },
+    {
+      "name": "sync.outbrain.com",
+      "children": [
+        {
+          "name": 0.000362922913627699,
+          "value": 0.000362922913627699,
+          "green": false,
+          "bytesPretty": "602 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "602 Bytes",
+      "value": 0.000362922913627699
+    },
+    {
+      "name": "sync.ipredictive.com",
+      "children": [
+        {
+          "name": 0.00024415910302195694,
+          "value": 0.00024415910302195694,
+          "green": false,
+          "bytesPretty": "405 Bytes"
+        },
+        {
+          "name": 0.00039125742681790144,
+          "value": 0.00039125742681790144,
+          "green": false,
+          "bytesPretty": "649 Bytes"
+        },
+        {
+          "name": 0.00039125742681790144,
+          "value": 0.00039125742681790144,
+          "green": false,
+          "bytesPretty": "649 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.7 KB",
+      "value": 0.0010266739566577598
+    },
+    {
+      "name": "image6.pubmatic.com",
+      "children": [
+        {
+          "name": 0.0076919160381658,
+          "value": 0.0076919160381658,
+          "green": false,
+          "bytesPretty": "12.5 KB"
+        },
+        {
+          "name": 0.00769251890014857,
+          "value": 0.00769251890014857,
+          "green": false,
+          "bytesPretty": "12.5 KB"
+        },
+        {
+          "name": 0.0009687992063118145,
+          "value": 0.0009687992063118145,
+          "green": false,
+          "bytesPretty": "1.6 KB"
+        },
+        {
+          "name": 0.00029841668147128074,
+          "value": 0.00029841668147128074,
+          "green": false,
+          "bytesPretty": "495 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "27.0 KB",
+      "value": 0.016651650826097465
+    },
+    {
+      "name": "pubads.g.doubleclick.net",
+      "children": [
+        {
+          "name": 0.00027864690434418625,
+          "value": 0.00027864690434418625,
+          "green": true,
+          "bytesPretty": "510 Bytes"
+        },
+        {
+          "name": 0.00005955394622258097,
+          "value": 0.00005955394622258097,
+          "green": true,
+          "bytesPretty": "109 Bytes"
+        },
+        {
+          "name": 0.00005955394622258097,
+          "value": 0.00005955394622258097,
+          "green": true,
+          "bytesPretty": "109 Bytes"
+        },
+        {
+          "name": 0.00005955394622258097,
+          "value": 0.00005955394622258097,
+          "green": true,
+          "bytesPretty": "109 Bytes"
+        },
+        {
+          "name": 0.00005955394622258097,
+          "value": 0.00005955394622258097,
+          "green": true,
+          "bytesPretty": "109 Bytes"
+        },
+        {
+          "name": 0.00005955394622258097,
+          "value": 0.00005955394622258097,
+          "green": true,
+          "bytesPretty": "109 Bytes"
+        },
+        {
+          "name": 0.00005955394622258097,
+          "value": 0.00005955394622258097,
+          "green": true,
+          "bytesPretty": "109 Bytes"
+        },
+        {
+          "name": 0.00005955394622258097,
+          "value": 0.00005955394622258097,
+          "green": true,
+          "bytesPretty": "109 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "1.2 KB",
+      "value": 0.0006955245279022529
+    },
+    {
+      "name": "pm.w55c.net",
+      "children": [
+        {
+          "name": 0.0003255454706959426,
+          "value": 0.0003255454706959426,
+          "green": false,
+          "bytesPretty": "540 Bytes"
+        },
+        {
+          "name": 0.0005877904332010075,
+          "value": 0.0005877904332010075,
+          "green": false,
+          "bytesPretty": "975 Bytes"
+        },
+        {
+          "name": 0.0005877904332010075,
+          "value": 0.0005877904332010075,
+          "green": false,
+          "bytesPretty": "975 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "2.4 KB",
+      "value": 0.0015011263370979578
+    },
+    {
+      "name": "match.taboola.com",
+      "children": [
+        {
+          "name": 0.00013805539405439048,
+          "value": 0.00013805539405439048,
+          "green": false,
+          "bytesPretty": "229 Bytes"
+        },
+        {
+          "name": 0.00020256162621080877,
+          "value": 0.00020256162621080877,
+          "green": false,
+          "bytesPretty": "336 Bytes"
+        },
+        {
+          "name": 0.00002954023715574294,
+          "value": 0.00002954023715574294,
+          "green": false,
+          "bytesPretty": "49 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "614 Bytes",
+      "value": 0.0003701572574209422
+    },
+    {
+      "name": "match.zorosrv.com",
+      "children": [
+        {
+          "name": 0.0002284846914699301,
+          "value": 0.0002284846914699301,
+          "green": false,
+          "bytesPretty": "379 Bytes"
+        },
+        {
+          "name": 0.00010128081310540438,
+          "value": 0.00010128081310540438,
+          "green": false,
+          "bytesPretty": "168 Bytes"
+        },
+        {
+          "name": 0.00004400892474222928,
+          "value": 0.00004400892474222928,
+          "green": false,
+          "bytesPretty": "73 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "620 Bytes",
+      "value": 0.0003737744293175638
+    },
+    {
+      "name": "d5p.de17a.com",
+      "children": [
+        {
+          "name": 0.00010550084698479623,
+          "value": 0.00010550084698479623,
+          "green": false,
+          "bytesPretty": "175 Bytes"
+        },
+        {
+          "name": 0.00010550084698479623,
+          "value": 0.00010550084698479623,
+          "green": false,
+          "bytesPretty": "175 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "350 Bytes",
+      "value": 0.00021100169396959245
+    },
+    {
+      "name": "dsp.adfarm1.adition.com",
+      "children": [
+        {
+          "name": 0.0003026367153506726,
+          "value": 0.0003026367153506726,
+          "green": false,
+          "bytesPretty": "502 Bytes"
+        },
+        {
+          "name": 0.0003026367153506726,
+          "value": 0.0003026367153506726,
+          "green": false,
+          "bytesPretty": "502 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1004 Bytes",
+      "value": 0.0006052734307013452
+    },
+    {
+      "name": "match.adsby.bidtheatre.com",
+      "children": [
+        {
+          "name": 0.00014709832379594445,
+          "value": 0.00014709832379594445,
+          "green": false,
+          "bytesPretty": "244 Bytes"
+        },
+        {
+          "name": 0.00014649546181317417,
+          "value": 0.00014649546181317417,
+          "green": false,
+          "bytesPretty": "243 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "487 Bytes",
+      "value": 0.00029359378560911864
+    },
+    {
+      "name": "a.tribalfusion.com",
+      "children": [
+        {
+          "name": 0.00024657055095303807,
+          "value": 0.00024657055095303807,
+          "green": false,
+          "bytesPretty": "409 Bytes"
+        },
+        {
+          "name": 0.00024295337905641643,
+          "value": 0.00024295337905641643,
+          "green": false,
+          "bytesPretty": "403 Bytes"
+        },
+        {
+          "name": 0.00024415910302195694,
+          "value": 0.00024415910302195694,
+          "green": false,
+          "bytesPretty": "405 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.2 KB",
+      "value": 0.0007336830330314114
+    },
+    {
+      "name": "sync.widespace.com",
+      "children": [
+        {
+          "name": 0.00031348823104053735,
+          "value": 0.00031348823104053735,
+          "green": false,
+          "bytesPretty": "520 Bytes"
+        },
+        {
+          "name": 0.00020437021215911953,
+          "value": 0.00020437021215911953,
+          "green": false,
+          "bytesPretty": "339 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "859 Bytes",
+      "value": 0.0005178584431996568
+    },
+    {
+      "name": "e.serverbid.com",
+      "children": [
+        {
+          "name": 0.00020195876422803848,
+          "value": 0.00020195876422803848,
+          "green": false,
+          "bytesPretty": "335 Bytes"
+        },
+        {
+          "name": 0.00020195876422803848,
+          "value": 0.00020195876422803848,
+          "green": false,
+          "bytesPretty": "335 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "670 Bytes",
+      "value": 0.00040391752845607697
+    },
+    {
+      "name": "colpirio.ibillboard.com",
+      "children": [
+        {
+          "name": 0.00038402308302465827,
+          "value": 0.00038402308302465827,
+          "bytesPretty": "637 Bytes"
+        },
+        {
+          "name": 0.00038402308302465827,
+          "value": 0.00038402308302465827,
+          "bytesPretty": "637 Bytes"
+        }
+      ],
+      "bytesPretty": "1.2 KB",
+      "value": 0.0007680461660493165
+    },
+    {
+      "name": "cookie.brealtime.com",
+      "children": [
+        {
+          "name": 0.00032126348971447347,
+          "value": 0.00032126348971447347,
+          "green": true,
+          "bytesPretty": "588 Bytes"
+        },
+        {
+          "name": 0.00032126348971447347,
+          "value": 0.00032126348971447347,
+          "green": true,
+          "bytesPretty": "588 Bytes"
+        }
+      ],
+      "green": true,
+      "bytesPretty": "1.1 KB",
+      "value": 0.0006425269794289469
+    },
+    {
+      "name": "simage2.pubmatic.com",
+      "children": [
+        {
+          "name": 0.0003363969863858074,
+          "value": 0.0003363969863858074,
+          "green": false,
+          "bytesPretty": "558 Bytes"
+        },
+        {
+          "name": 0.00061612494639121,
+          "value": 0.00061612494639121,
+          "green": false,
+          "bytesPretty": "1022 Bytes"
+        },
+        {
+          "name": 0.0005757331935456022,
+          "value": 0.0005757331935456022,
+          "green": false,
+          "bytesPretty": "955 Bytes"
+        },
+        {
+          "name": 0.00042260624992195516,
+          "value": 0.00042260624992195516,
+          "green": false,
+          "bytesPretty": "701 Bytes"
+        },
+        {
+          "name": 0.00039728604664560405,
+          "value": 0.00039728604664560405,
+          "green": false,
+          "bytesPretty": "659 Bytes"
+        },
+        {
+          "name": 0.0003363969863858074,
+          "value": 0.0003363969863858074,
+          "green": false,
+          "bytesPretty": "558 Bytes"
+        },
+        {
+          "name": 0.0003406170202651992,
+          "value": 0.0003406170202651992,
+          "green": false,
+          "bytesPretty": "565 Bytes"
+        },
+        {
+          "name": 0.00035689429379999634,
+          "value": 0.00035689429379999634,
+          "green": false,
+          "bytesPretty": "592 Bytes"
+        },
+        {
+          "name": 0.000554633024148643,
+          "value": 0.000554633024148643,
+          "green": false,
+          "bytesPretty": "920 Bytes"
+        },
+        {
+          "name": 0.0005733217456145211,
+          "value": 0.0005733217456145211,
+          "green": false,
+          "bytesPretty": "951 Bytes"
+        },
+        {
+          "name": 0.00035689429379999634,
+          "value": 0.00035689429379999634,
+          "green": false,
+          "bytesPretty": "592 Bytes"
+        },
+        {
+          "name": 0.0003406170202651992,
+          "value": 0.0003406170202651992,
+          "green": false,
+          "bytesPretty": "565 Bytes"
+        },
+        {
+          "name": 0.0003406170202651992,
+          "value": 0.0003406170202651992,
+          "green": false,
+          "bytesPretty": "565 Bytes"
+        },
+        {
+          "name": 0.00061612494639121,
+          "value": 0.00061612494639121,
+          "green": false,
+          "bytesPretty": "1022 Bytes"
+        },
+        {
+          "name": 0.0005733217456145211,
+          "value": 0.0005733217456145211,
+          "green": false,
+          "bytesPretty": "951 Bytes"
+        },
+        {
+          "name": 0.00039728604664560405,
+          "value": 0.00039728604664560405,
+          "green": false,
+          "bytesPretty": "659 Bytes"
+        },
+        {
+          "name": 0.00042260624992195516,
+          "value": 0.00042260624992195516,
+          "green": false,
+          "bytesPretty": "701 Bytes"
+        },
+        {
+          "name": 0.0005757331935456022,
+          "value": 0.0005757331935456022,
+          "green": false,
+          "bytesPretty": "955 Bytes"
+        },
+        {
+          "name": 0.00042260624992195516,
+          "value": 0.00042260624992195516,
+          "green": false,
+          "bytesPretty": "701 Bytes"
+        },
+        {
+          "name": 0.00039728604664560405,
+          "value": 0.00039728604664560405,
+          "green": false,
+          "bytesPretty": "659 Bytes"
+        },
+        {
+          "name": 0.0003737744293175638,
+          "value": 0.0003737744293175638,
+          "green": false,
+          "bytesPretty": "620 Bytes"
+        },
+        {
+          "name": 0.0013467936695087702,
+          "value": 0.0013467936695087702,
+          "green": false,
+          "bytesPretty": "2.2 KB"
+        },
+        {
+          "name": 0.0003406170202651992,
+          "value": 0.0003406170202651992,
+          "green": false,
+          "bytesPretty": "565 Bytes"
+        },
+        {
+          "name": 0.0005739246075972915,
+          "value": 0.0005739246075972915,
+          "green": false,
+          "bytesPretty": "952 Bytes"
+        },
+        {
+          "name": 0.000554633024148643,
+          "value": 0.000554633024148643,
+          "green": false,
+          "bytesPretty": "920 Bytes"
+        },
+        {
+          "name": 0.0003737744293175638,
+          "value": 0.0003737744293175638,
+          "green": false,
+          "bytesPretty": "620 Bytes"
+        },
+        {
+          "name": 0.00042260624992195516,
+          "value": 0.00042260624992195516,
+          "green": false,
+          "bytesPretty": "701 Bytes"
+        },
+        {
+          "name": 0.00042260624992195516,
+          "value": 0.00042260624992195516,
+          "green": false,
+          "bytesPretty": "701 Bytes"
+        },
+        {
+          "name": 0.0005739246075972915,
+          "value": 0.0005739246075972915,
+          "green": false,
+          "bytesPretty": "952 Bytes"
+        },
+        {
+          "name": 0.00042260624992195516,
+          "value": 0.00042260624992195516,
+          "green": false,
+          "bytesPretty": "701 Bytes"
+        },
+        {
+          "name": 0.001536092332098633,
+          "value": 0.001536092332098633,
+          "green": false,
+          "bytesPretty": "2.5 KB"
+        },
+        {
+          "name": 0.000586584709235467,
+          "value": 0.000586584709235467,
+          "green": false,
+          "bytesPretty": "973 Bytes"
+        },
+        {
+          "name": 0.0005757331935456022,
+          "value": 0.0005757331935456022,
+          "green": false,
+          "bytesPretty": "955 Bytes"
+        },
+        {
+          "name": 0.00042260624992195516,
+          "value": 0.00042260624992195516,
+          "green": false,
+          "bytesPretty": "701 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "28.3 KB",
+      "value": 0.01747938032844104
+    },
+    {
+      "name": "pubmatic-match.dotomi.com",
+      "children": [
+        {
+          "name": 0.00006269764620810748,
+          "value": 0.00006269764620810748,
+          "green": false,
+          "bytesPretty": "104 Bytes"
+        },
+        {
+          "name": 0.00006209478422533721,
+          "value": 0.00006209478422533721,
+          "green": false,
+          "bytesPretty": "103 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "207 Bytes",
+      "value": 0.00012479243043344467
+    },
+    {
+      "name": "image2.pubmatic.com",
+      "children": [
+        {
+          "name": 0.0005727188836317509,
+          "value": 0.0005727188836317509,
+          "green": false,
+          "bytesPretty": "950 Bytes"
+        },
+        {
+          "name": 0.00026586213440168646,
+          "value": 0.00026586213440168646,
+          "green": false,
+          "bytesPretty": "441 Bytes"
+        },
+        {
+          "name": 0.0005727188836317509,
+          "value": 0.0005727188836317509,
+          "green": false,
+          "bytesPretty": "950 Bytes"
+        },
+        {
+          "name": 0.00026586213440168646,
+          "value": 0.00026586213440168646,
+          "green": false,
+          "bytesPretty": "441 Bytes"
+        },
+        {
+          "name": 0.0006311964959604666,
+          "value": 0.0006311964959604666,
+          "green": false,
+          "bytesPretty": "1.0 KB"
+        },
+        {
+          "name": 0.0005564416100969537,
+          "value": 0.0005564416100969537,
+          "green": false,
+          "bytesPretty": "923 Bytes"
+        },
+        {
+          "name": 0.000540767198544927,
+          "value": 0.000540767198544927,
+          "green": false,
+          "bytesPretty": "897 Bytes"
+        },
+        {
+          "name": 0.000540767198544927,
+          "value": 0.000540767198544927,
+          "green": false,
+          "bytesPretty": "897 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "6.4 KB",
+      "value": 0.003946334539214149
+    },
+    {
+      "name": "image4.pubmatic.com",
+      "children": [
+        {
+          "name": 0.0003490570880239829,
+          "value": 0.0003490570880239829,
+          "green": false,
+          "bytesPretty": "579 Bytes"
+        },
+        {
+          "name": 0.0003490570880239829,
+          "value": 0.0003490570880239829,
+          "green": false,
+          "bytesPretty": "579 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.1 KB",
+      "value": 0.0006981141760479658
+    },
+    {
+      "name": "r.254a.com",
+      "children": [
+        {
+          "name": 0.0003677458094898611,
+          "value": 0.0003677458094898611,
+          "green": false,
+          "bytesPretty": "610 Bytes"
+        },
+        {
+          "name": 0.00043044345569796864,
+          "value": 0.00043044345569796864,
+          "green": false,
+          "bytesPretty": "714 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.3 KB",
+      "value": 0.0007981892651878297
+    },
+    {
+      "name": "ads.chargeads.com",
+      "children": [
+        {
+          "name": 0.0003556885698344558,
+          "value": 0.0003556885698344558,
+          "green": false,
+          "bytesPretty": "590 Bytes"
+        },
+        {
+          "name": 0.0003852288069901988,
+          "value": 0.0003852288069901988,
+          "green": false,
+          "bytesPretty": "639 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.2 KB",
+      "value": 0.0007409173768246546
+    },
+    {
+      "name": "rtb-csync.smartadserver.com",
+      "children": [
+        {
+          "name": 0.0004925382399233059,
+          "value": 0.0004925382399233059,
+          "green": false,
+          "bytesPretty": "817 Bytes"
+        },
+        {
+          "name": 0.0004931411019060761,
+          "value": 0.0004931411019060761,
+          "green": false,
+          "bytesPretty": "818 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.6 KB",
+      "value": 0.000985679341829382
+    },
+    {
+      "name": "simage4.pubmatic.com",
+      "children": [
+        {
+          "name": 0.00028093368397094306,
+          "value": 0.00028093368397094306,
+          "green": false,
+          "bytesPretty": "466 Bytes"
+        },
+        {
+          "name": 0.0002803308219881728,
+          "value": 0.0002803308219881728,
+          "green": false,
+          "bytesPretty": "465 Bytes"
+        },
+        {
+          "name": 0.0002803308219881728,
+          "value": 0.0002803308219881728,
+          "green": false,
+          "bytesPretty": "465 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "1.4 KB",
+      "value": 0.0008415953279472887
+    },
+    {
+      "name": "pubmatic2waycm-atl.netmng.com",
+      "children": [
+        {
+          "name": 0.00019954731629695744,
+          "value": 0.00019954731629695744,
+          "green": false,
+          "bytesPretty": "331 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "331 Bytes",
+      "value": 0.00019954731629695744
+    },
+    {
+      "name": "rp.gwallet.com",
+      "children": [
+        {
+          "name": 0.00031107678310945627,
+          "value": 0.00031107678310945627,
+          "green": false,
+          "bytesPretty": "516 Bytes"
+        },
+        {
+          "name": 0.0004431035573361441,
+          "value": 0.0004431035573361441,
+          "green": false,
+          "bytesPretty": "735 Bytes"
+        },
+        {
+          "name": 0.0005009783076820895,
+          "value": 0.0005009783076820895,
+          "green": false,
+          "bytesPretty": "831 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "2.0 KB",
+      "value": 0.00125515864812769
+    },
+    {
+      "name": "match.rundsp.com",
+      "children": [
+        {
+          "name": 0.0002941966475918889,
+          "value": 0.0002941966475918889,
+          "green": false,
+          "bytesPretty": "488 Bytes"
+        }
+      ],
+      "green": false,
+      "bytesPretty": "488 Bytes",
+      "value": 0.0002941966475918889
+    }
+  ]
+}
