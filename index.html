@@ -173,7 +173,7 @@ const prettyBytes = (bytes) => {
 
 const checkGreen = async (host) => {
     return new Promise((resolve, reject) => {
-        fetch('http://api.thegreenwebfoundation.org/greencheck/' + host,
+        fetch('https://api.thegreenwebfoundation.org/greencheck/' + host,
         {
             method: 'GET'
         })
@@ -301,7 +301,7 @@ const buildMapData = (data, type) => {
 };
 
 const getResults = (testId) => {
-    const wptResultsEndpoint = "http://www.webpagetest.org/jsonResult.php?test=";
+    const wptResultsEndpoint = "https://www.webpagetest.org/jsonResult.php?test=";
 
     return new Promise((resolve, reject) => {
         
