@@ -179,7 +179,7 @@ const checkGreen = async (host) => {
         })
         .then(r => r.json())
         .then(data => { 
-          document.querySelector('#loading').innerHTML += ".";
+          document.querySelector('#loading').innerHTML += " .";
             if (data) {
                 resolve(data.green);
             } else {
@@ -188,7 +188,7 @@ const checkGreen = async (host) => {
         })
         .catch(e => {
             resolve(false);
-            document.querySelector('#loading').innerHTML += "_";
+            document.querySelector('#loading').innerHTML += " _";
         })
     });
 };
