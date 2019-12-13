@@ -19,4 +19,6 @@ There's a single page with all the logic inside; just paste in a WPT test ID and
 
 The rest of the repo is the nodejs version of this, so you can hook it into a pipeline and generate static reports if you wanted to.
 
+Here is an [example greentree treemap for The Sun website](https://rposbo.github.io/greentree/index.html?testId=191205_8X_d8c9b58ef93545be9df8c371e1b4dc46) - it can take a while to load, so the result is below:
+
 ![example greentree treemap for The Sun website](./screencap.PNG)
