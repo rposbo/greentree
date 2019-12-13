@@ -13,7 +13,7 @@ The blocks are grey if the host uses non-renewable energy and green if it uses a
 
 https://rposbo.github.io/greentree
 
-There's a single page with all the logic inside; just paste in a WPT test ID and hit GO! The dots and dashes are calls to GreenWebFoundation API to see if the host is using renewable energy; dashes are when the call failed (probably blocked) by the browser thinking it's an advert ping.
+There's a single page with all the logic inside; just paste in a WPT test ID and hit GO! The dots and dashes are calls to GreenWebFoundation API to see if the host is using renewable energy; dashes are when the call failed (probably blocked by the browser thinking it's an advert ping).
 
 ## Server Side
 
