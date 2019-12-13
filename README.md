@@ -18,3 +18,5 @@ There's a single page with all the logic inside; just paste in a WPT test ID and
 ## Server Side
 
 The rest of the repo is the nodejs version of this, so you can hook it into a pipeline and generate static reports if you wanted to.
+
+![example greentree treemap for The Sun website](./screencap.PNG)
