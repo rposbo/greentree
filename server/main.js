@@ -1,9 +1,9 @@
 const request = require('request');
 const fs = require('fs');
 
-const aggregator = require("./lib/src/aggregator.js");
-const energyData = require("./lib/src/energy.js");
-const treemap = require("./lib/src/treemapConverter.js");
+const aggregator = require("./src/aggregator.js");
+const energyData = require("./src/energy.js");
+const treemap = require("./src/treemapConverter.js");
 
 const wptResultsEndpoint = "http://www.webpagetest.org/jsonResult.php?test=";
 
@@ -40,11 +40,11 @@ exports.handler = (event, context, callback) => {
 
     getResults(event.queryStringParameters.id)
     .then(results => {
-        fs.writeFileSync('green.json', JSON.stringify(results, null, 2));
-        fs.writeFileSync('green_bytes.json', JSON.stringify(treemap.buildMapData(results, 'bytes') , null, 2));
-        fs.writeFileSync('green_energy.json', JSON.stringify(treemap.buildMapData(results, 'energy') , null, 2));
-        fs.writeFileSync('green_co2Grams.json', JSON.stringify(treemap.buildMapData(results, 'co2Grams') , null, 2));
-        fs.writeFileSync('green_co2Litres.json', JSON.stringify(treemap.buildMapData(results, 'co2Litres') , null, 2));
+        fs.writeFileSync('./data/green.json', JSON.stringify(results, null, 2));
+        fs.writeFileSync('./data/green_bytes.json', JSON.stringify(treemap.buildMapData(results, 'bytes') , null, 2));
+        fs.writeFileSync('./data/green_energy.json', JSON.stringify(treemap.buildMapData(results, 'energy') , null, 2));
+        fs.writeFileSync('./data/green_co2Grams.json', JSON.stringify(treemap.buildMapData(results, 'co2Grams') , null, 2));
+        fs.writeFileSync('./data/green_co2Litres.json', JSON.stringify(treemap.buildMapData(results, 'co2Litres') , null, 2));
     })
     .catch(e => {
         var msg = "ERROR in getResults: " + JSON.stringify(e);
